@@ -1,0 +1,383 @@
+Listening on port 8088
+Connected correctly to server mongodb
+Connection established mysql
+Listening on port 8088
+Connected correctly to server mongodb
+Connection established mysql
+Listening on port 8088
+Connected correctly to server mongodb
+Connection established mysql
+Listening on port 8088
+Connected correctly to server mongodb
+Connection established mysql
+Listening on port 8088
+Connected correctly to server mongodb
+Connection established mysql
+Listening on port 8088
+Connected correctly to server mongodb
+Connection established mysql
+null
+null
+{ _id: 57d69818d8da09624e6763a7,
+  CartLog: [],
+  Status: 1,
+  First_name: 'Ali',
+  Email: 'alihoshiyar@gmail.com',
+  Phone: '8966993355',
+  Verify: 1,
+  Code: 70119,
+  Password: '3Embed',
+  Created_dt: '2016-09-12 17:28:04',
+  CurrentStatus: 1,
+  sessionToken: 'RkSdVmX5gCnN',
+  terms_cond: 1,
+  referral_code: '',
+  location: { longitude: 13.0287842, latitude: 77.5896478 },
+  Devices: 
+   [ { DeviceType: 2,
+       Os: '6.0.1',
+       DeviceId: '352136062663873',
+       DeviceToken: 'f1i6wBfoQ-o:APA91bEm6cM_TAHV6Qu61TMeGwf1-KfxhrWN2YzE1g5VRhn6uvCru4LvLvTSo2T3F5zMdUXUimFNPKG1uDa33nuRredkxsTm3nhwT44xll9eeRlISWKeS3jRG1gV0EiJgpx9r42gtb9u',
+       AppVersion: '1.0',
+       LastOnline: '2016-09-12 17:28:04' } ],
+  AddressLog: [] }
+{ _id: 57d6b09ed8da09624e6763ac,
+  CartLog: [],
+  Status: 1,
+  First_name: 'Darshan',
+  Email: 'rada@appscrip.com',
+  Phone: '9886180711',
+  Verify: 1,
+  Code: 25025,
+  Password: '3Embed',
+  Created_dt: '2016-09-12 19:55:25',
+  CurrentStatus: 1,
+  sessionToken: 'oHAGqrsN9LUX',
+  terms_cond: 1,
+  referral_code: '',
+  location: { longitude: 13.0931578, latitude: 77.5875967 },
+  Devices: 
+   [ { DeviceType: 2,
+       Os: '5.1.1',
+       DeviceId: '355136050477028',
+       DeviceToken: 'eZf85jTOOrs:APA91bHTFvNKCkIsjoz2lqVFwegkxFVpw9M-MWuCfBuLSaoSbP3zL11_idR3f-I9iNyg1jOK103UHHSrxx6-dVkRTGECHed1jUeK81WerYApYOEmvv6kjIix8g4FYbHgnNoW0fQNDJWY',
+       AppVersion: '1.0',
+       LastOnline: '2016-09-12 19:55:25' } ],
+  AddressLog: [] }
+{ _id: 57d6b09ed8da09624e6763ac,
+  CartLog: [],
+  Status: 1,
+  First_name: 'Darshan',
+  Email: 'rada@appscrip.com',
+  Phone: '9886180711',
+  Verify: 1,
+  Code: 30599,
+  Password: '3Embed',
+  Created_dt: '2016-09-12 19:55:53',
+  CurrentStatus: 1,
+  sessionToken: 'RIu1hV9nAD3C',
+  terms_cond: 1,
+  referral_code: '',
+  location: { longitude: 13.0931578, latitude: 77.5875967 },
+  Devices: 
+   [ { DeviceType: 2,
+       Os: '5.1.1',
+       DeviceId: '355136050477028',
+       DeviceToken: 'eZf85jTOOrs:APA91bHTFvNKCkIsjoz2lqVFwegkxFVpw9M-MWuCfBuLSaoSbP3zL11_idR3f-I9iNyg1jOK103UHHSrxx6-dVkRTGECHed1jUeK81WerYApYOEmvv6kjIix8g4FYbHgnNoW0fQNDJWY',
+       AppVersion: '1.0',
+       LastOnline: '2016-09-12 19:55:53' } ],
+  AddressLog: [] }
+Listening on port 8088
+Connected correctly to server mongodb
+Connection established mysql
+{ _id: 57d6bda4d8da09624e6763b0,
+  CartLog: [],
+  Status: 1,
+  First_name: 'Shivansh',
+  Email: 'shiva@gm.com',
+  Phone: '123456789985885055',
+  Verify: 1,
+  Code: 53176,
+  Password: 'qwert34',
+  Created_dt: '2016-09-12 20:11:30',
+  CurrentStatus: 1,
+  sessionToken: 'FNwHfRChVyco',
+  terms_cond: 1,
+  referral_code: '',
+  location: { longitude: 13.0288008, latitude: 77.5896764 },
+  Devices: 
+   [ { DeviceType: 2,
+       Os: '6.0.1',
+       DeviceId: '352136064011782',
+       DeviceToken: 'dFzYJPLajpQ:APA91bHyCRrNbCk2JENLHIVnmjJnUb-9_umGUd6k2aYuFWbCo3Vd4E2teTPcaQIzN7qYinv8aBtaJXBGR2eSwMK5aanl9T12XH0RYGfHq1uOra3z21bfjmw3LCqpAW4a06vyXvgoCeY6',
+       AppVersion: '1.0',
+       LastOnline: '2016-09-12 20:11:30' } ],
+  AddressLog: [] }
+null
+null
+null
+null
+Listening on port 8088
+Connected correctly to server mongodb
+Connection established mysql
+Listening on port 8088
+Connected correctly to server mongodb
+Connection established mysql
+Listening on port 8088
+Connected correctly to server mongodb
+Connection established mysql
+Listening on port 8088
+Connected correctly to server mongodb
+Connection established mysql
+{ _id: 57d41982c1dad30af6b0b0c7,
+  CartLog: [],
+  Status: 1,
+  First_name: 'Ned',
+  Email: 'ned.stark@Got.com',
+  Phone: '9582429674',
+  Verify: 1,
+  Code: 92547,
+  Password: 'qwerty',
+  Created_dt: '2016-09-12 23:09:21',
+  CurrentStatus: 1,
+  sessionToken: 'BBOxEEzkBNDj',
+  terms_cond: 1,
+  referral_code: '',
+  location: { longitude: 13.0289591, latitude: 77.5897341 },
+  Devices: 
+   [ { DeviceType: 2,
+       Os: '6.0.1',
+       DeviceId: '352136064011782',
+       DeviceToken: 'dsjQ52uRfMY:APA91bENZnN07B0oLiUXdDf0rJmbao2aKYj5BIHmzAoi3q-rSW_cn--4YeoIYKF6327mxCk-Z1yn2p1PpZm1mVcAHl_FAFaqvJkKhXUO7Hl04JQK-v97LbzrhpoFB4ZZzW3gMyxB3OcV',
+       AppVersion: '1.0',
+       LastOnline: '2016-09-12 23:09:21' } ],
+  AddressLog: [] }
+{ _id: 57d41982c1dad30af6b0b0c7,
+  CartLog: [],
+  Status: 1,
+  First_name: 'Oydig',
+  Email: 'lgxkg@g.com',
+  Phone: '98383',
+  Verify: 1,
+  Code: 19574,
+  Password: 'igxigxtz',
+  Created_dt: '2016-09-13 00:30:35',
+  CurrentStatus: 1,
+  sessionToken: 'NIzubSafGyKh',
+  terms_cond: 1,
+  referral_code: '',
+  location: { longitude: 13.0289583, latitude: 77.589716 },
+  Devices: 
+   [ { DeviceType: 2,
+       Os: '6.0.1',
+       DeviceId: '352136064011782',
+       DeviceToken: 'cFIi6OvVZbs:APA91bGE3bj0BohKw4wK--tuYgm8WLlXP1xRBxr1H8JSPFLiZppexUrLWZ8S6sx2VNgcgL6SztJ-OatMX5r2tIS0HVFrAFrQ1bls9ZrGcE6IE7bTYlWUKOHXfOrlCuJr5Ntkb-NVbr9G',
+       AppVersion: '1.0',
+       LastOnline: '2016-09-13 00:30:35' } ],
+  AddressLog: [] }
+Listening on port 8088
+Connected correctly to server mongodb
+Connection established mysql
+Listening on port 8088
+Connected correctly to server mongodb
+Connection established mysql
+Listening on port 8088
+Connected correctly to server mongodb
+Connection established mysql
+Listening on port 8088
+Connected correctly to server mongodb
+Connection established mysql
+Listening on port 8088
+Connected correctly to server mongodb
+Connection established mysql
+{ _id: 57d7dee903300638c1ed5ff7,
+  CartLog: [],
+  Status: 1,
+  First_name: 'Muzzamiluddin',
+  Email: 'Muzzamil@al-jazirah.com.sa',
+  Phone: '0550599826',
+  Verify: 1,
+  Code: 25864,
+  Password: 'Tebse123',
+  Created_dt: '2016-09-13 14:15:34',
+  CurrentStatus: 1,
+  sessionToken: '',
+  terms_cond: 1,
+  referral_code: '',
+  location: { longitude: 24.7968572, latitude: 46.6301168 },
+  Devices: 
+   [ { DeviceType: 2,
+       Os: '5.1.1',
+       DeviceId: '868147024335341',
+       DeviceToken: 'dGb0CgzDVzw:APA91bGvdfPtpLpcoAN134xLV4TFQW62qqdC-AeAdQEATSXi-9MnKprK-5XJx3g9-3tFLm72LNoaqs31HLH7TevcUsMfvhpVWlygJRf2xtFK07VnZcijZYF9ltc1MC3PmMAiHLSMG5hP',
+       AppVersion: '1.0',
+       LastOnline: '2016-09-13 14:15:34' } ],
+  AddressLog: [] }
+Listening on port 8088
+Connected correctly to server mongodb
+Connection established mysql
+Listening on port 8088
+Connected correctly to server mongodb
+Connection established mysql
+Listening on port 8088
+Connected correctly to server mongodb
+Connection established mysql
+Listening on port 8088
+Connected correctly to server mongodb
+Connection established mysql
+Listening on port 8088
+Connected correctly to server mongodb
+Connection established mysql
+Listening on port 8088
+Connected correctly to server mongodb
+Connection established mysql
+{ _id: 57d7df1203300638c1ed5ff8,
+  CartLog: [],
+  Status: 1,
+  First_name: 'Sigurd',
+  Email: 's.andersen@al-jazirah.com.sa',
+  Phone: '00966549249425',
+  Verify: 1,
+  Code: 40249,
+  Password: 'tebse2016',
+  Created_dt: '2016-09-13 14:50:05',
+  CurrentStatus: 1,
+  sessionToken: '',
+  terms_cond: 1,
+  referral_code: '',
+  location: { longitude: 24.7965585, latitude: 46.6302127 },
+  Devices: 
+   [ { DeviceType: 2,
+       Os: '4.3',
+       DeviceId: '351542067446407',
+       DeviceToken: 'cbTKFPmoLqs:APA91bHMu32I4SjcDDdDW_1O0gVavhdg--HbRoq4pHhgbqG_NUneDGzZtcH8vrEn3qFJNndKm-f8feo3ofqBoKFZFvanqxhGjXw9puc-ZNS8APvMq62RNBY8rK5h5iG1UqKNMqfydpex',
+       AppVersion: '1.0',
+       LastOnline: '2016-09-13 14:50:05' } ],
+  AddressLog: [] }
+Listening on port 8088
+Connected correctly to server mongodb
+Connection established mysql
+Listening on port 8088
+Connected correctly to server mongodb
+Connection established mysql
+Listening on port 8088
+Connected correctly to server mongodb
+Connection established mysql
+Listening on port 8088
+Connected correctly to server mongodb
+Connection established mysql
+Listening on port 8088
+Connected correctly to server mongodb
+Connection established mysql
+Listening on port 8088
+Connected correctly to server mongodb
+Connection established mysql
+Listening on port 8088
+Connected correctly to server mongodb
+Connection established mysql
+{ _id: 57d7daf503300638c1ed5ff6,
+  CartLog: [],
+  Status: 1,
+  First_name: 'Ahmed',
+  Email: 'a_mallah@hotmail.com',
+  Phone: '0506481104',
+  Verify: 1,
+  Code: 9909,
+  Password: 'mam2181',
+  Created_dt: '2016-09-13 14:55:11',
+  CurrentStatus: 1,
+  sessionToken: '',
+  terms_cond: 1,
+  referral_code: '',
+  location: { longitude: 24.7969625, latitude: 46.6301948 },
+  Devices: 
+   [ { DeviceType: 2,
+       Os: '5.0.1',
+       DeviceId: '358904051156207',
+       DeviceToken: 'ftQ_mrcJm7c:APA91bGVUSvJ_t1zQRKwtPAgnVLn2DGOFZNd4GDao-VwJfAf1AnoHh2DKa8zFmypuluv9PJShke2fQ17cO1t_HkaIHZv234uVcH8bzvTZu2mKXJmuyblO2AGIzekAIcm9WRWU92AcZfy',
+       AppVersion: '1.0',
+       LastOnline: '2016-09-13 14:55:11' } ],
+  AddressLog: [] }
+Listening on port 8088
+Connected correctly to server mongodb
+Connection established mysql
+Listening on port 8088
+Connected correctly to server mongodb
+Connection established mysql
+{ _id: 57d7e8529d5f983efa0370fa,
+  CartLog: [],
+  Status: 1,
+  First_name: 'Abdullatif',
+  Email: 'aljawal63@yahoo.com',
+  Phone: '0505460405',
+  Verify: 1,
+  Code: 15135,
+  Password: '12345',
+  Created_dt: '2016-09-13 14:56:59',
+  CurrentStatus: 1,
+  sessionToken: '',
+  terms_cond: 1,
+  referral_code: '',
+  location: { longitude: 24.7969861, latitude: 46.6302685 },
+  Devices: 
+   [ { DeviceType: 2,
+       Os: '4.3',
+       DeviceId: '351542066089661',
+       DeviceToken: 'dqyu9fBUli0:APA91bGOaZgHMovtM6az3aYf83iU4phs0kYeliD7mykSQ3WRuJbOTgLqRTUhWgfQj6w-0QBDkm9BxgUjnC-oaTCPRJeN8GbJUNyPNhxQiUfqr1S5pwbq21OBe8cyH4JUdjONi_uKOAgr',
+       AppVersion: '1.0',
+       LastOnline: '2016-09-13 14:56:59' } ],
+  AddressLog: [] }
+Listening on port 8088
+Connected correctly to server mongodb
+Connection established mysql
+Listening on port 8088
+Connected correctly to server mongodb
+Connection established mysql
+Listening on port 8088
+Connection established mysql
+Connected correctly to server mongodb
+Listening on port 8088
+Connected correctly to server mongodb
+Connection established mysql
+Listening on port 8088
+Connected correctly to server mongodb
+Connection established mysql
+Listening on port 8088
+Connected correctly to server mongodb
+Connection established mysql
+Listening on port 8088
+Connected correctly to server mongodb
+Connection established mysql
+Listening on port 8088
+Connected correctly to server mongodb
+Connection established mysql
+Listening on port 8088
+Connected correctly to server mongodb
+Connection established mysql
+Listening on port 8088
+Connected correctly to server mongodb
+Connection established mysql
+Listening on port 8088
+Connected correctly to server mongodb
+Connection established mysql
+Listening on port 8088
+Connected correctly to server mongodb
+Connection established mysql
+Listening on port 8088
+Connected correctly to server mongodb
+Connection established mysql
+Listening on port 8088
+Connected correctly to server mongodb
+Connection established mysql
+Listening on port 8088
+Connected correctly to server mongodb
+Connection established mysql
+Listening on port 8088
+Connected correctly to server mongodb
+Connection established mysql
+Listening on port 8088
+Connected correctly to server mongodb
+Connection established mysql
+Listening on port 8088
+Connected correctly to server mongodb
+Connection established mysql

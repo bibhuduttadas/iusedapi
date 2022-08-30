@@ -1,0 +1,582 @@
+/var/www/html/Tebse/tebse-nodeapi/node_modules/mongodb/lib/utils.js:98
+    process.nextTick(function() { throw err; });
+                                  ^
+
+TypeError: Cannot read property 'eventLog' of null
+    at /var/www/html/Tebse/tebse-nodeapi/controllers/order.js:947:59
+    at handleCallback (/var/www/html/Tebse/tebse-nodeapi/node_modules/mongodb/lib/utils.js:96:12)
+    at /var/www/html/Tebse/tebse-nodeapi/node_modules/mongodb/lib/collection.js:1392:5
+    at handleCallback (/var/www/html/Tebse/tebse-nodeapi/node_modules/mongodb/lib/utils.js:96:12)
+    at /var/www/html/Tebse/tebse-nodeapi/node_modules/mongodb/lib/cursor.js:676:5
+    at handleCallback (/var/www/html/Tebse/tebse-nodeapi/node_modules/mongodb-core/lib/cursor.js:156:5)
+    at setCursorNotified (/var/www/html/Tebse/tebse-nodeapi/node_modules/mongodb-core/lib/cursor.js:506:3)
+    at /var/www/html/Tebse/tebse-nodeapi/node_modules/mongodb-core/lib/cursor.js:579:16
+    at Object.queryCallback [as cb] (/var/www/html/Tebse/tebse-nodeapi/node_modules/mongodb-core/lib/cursor.js:238:5)
+    at /var/www/html/Tebse/tebse-nodeapi/node_modules/mongodb-core/lib/connection/pool.js:446:18
+/var/www/html/Tebse/tebse-nodeapi/node_modules/mongodb/lib/utils.js:98
+    process.nextTick(function() { throw err; });
+                                  ^
+
+TypeError: Cannot read property 'eventLog' of null
+    at /var/www/html/Tebse/tebse-nodeapi/controllers/order.js:947:59
+    at handleCallback (/var/www/html/Tebse/tebse-nodeapi/node_modules/mongodb/lib/utils.js:96:12)
+    at /var/www/html/Tebse/tebse-nodeapi/node_modules/mongodb/lib/collection.js:1392:5
+    at handleCallback (/var/www/html/Tebse/tebse-nodeapi/node_modules/mongodb/lib/utils.js:96:12)
+    at /var/www/html/Tebse/tebse-nodeapi/node_modules/mongodb/lib/cursor.js:676:5
+    at handleCallback (/var/www/html/Tebse/tebse-nodeapi/node_modules/mongodb-core/lib/cursor.js:156:5)
+    at setCursorNotified (/var/www/html/Tebse/tebse-nodeapi/node_modules/mongodb-core/lib/cursor.js:506:3)
+    at /var/www/html/Tebse/tebse-nodeapi/node_modules/mongodb-core/lib/cursor.js:579:16
+    at Object.queryCallback [as cb] (/var/www/html/Tebse/tebse-nodeapi/node_modules/mongodb-core/lib/cursor.js:238:5)
+    at /var/www/html/Tebse/tebse-nodeapi/node_modules/mongodb-core/lib/connection/pool.js:446:18
+/var/www/html/Tebse/tebse-nodeapi/node_modules/mongodb/lib/utils.js:98
+    process.nextTick(function() { throw err; });
+                                  ^
+
+TypeError: Cannot read property 'eventLog' of null
+    at /var/www/html/Tebse/tebse-nodeapi/controllers/order.js:947:59
+    at handleCallback (/var/www/html/Tebse/tebse-nodeapi/node_modules/mongodb/lib/utils.js:96:12)
+    at /var/www/html/Tebse/tebse-nodeapi/node_modules/mongodb/lib/collection.js:1392:5
+    at handleCallback (/var/www/html/Tebse/tebse-nodeapi/node_modules/mongodb/lib/utils.js:96:12)
+    at /var/www/html/Tebse/tebse-nodeapi/node_modules/mongodb/lib/cursor.js:676:5
+    at handleCallback (/var/www/html/Tebse/tebse-nodeapi/node_modules/mongodb-core/lib/cursor.js:156:5)
+    at setCursorNotified (/var/www/html/Tebse/tebse-nodeapi/node_modules/mongodb-core/lib/cursor.js:506:3)
+    at /var/www/html/Tebse/tebse-nodeapi/node_modules/mongodb-core/lib/cursor.js:579:16
+    at Object.queryCallback [as cb] (/var/www/html/Tebse/tebse-nodeapi/node_modules/mongodb-core/lib/cursor.js:238:5)
+    at /var/www/html/Tebse/tebse-nodeapi/node_modules/mongodb-core/lib/connection/pool.js:446:18
+/var/www/html/Tebse/tebse-nodeapi/node_modules/mongodb/lib/utils.js:98
+    process.nextTick(function() { throw err; });
+                                  ^
+
+TypeError: Cannot read property 'userId' of null
+    at /var/www/html/Tebse/tebse-nodeapi/controllers/order.js:2659:37
+    at handleCallback (/var/www/html/Tebse/tebse-nodeapi/node_modules/mongodb/lib/utils.js:96:12)
+    at /var/www/html/Tebse/tebse-nodeapi/node_modules/mongodb/lib/collection.js:1392:5
+    at handleCallback (/var/www/html/Tebse/tebse-nodeapi/node_modules/mongodb/lib/utils.js:96:12)
+    at /var/www/html/Tebse/tebse-nodeapi/node_modules/mongodb/lib/cursor.js:676:5
+    at handleCallback (/var/www/html/Tebse/tebse-nodeapi/node_modules/mongodb-core/lib/cursor.js:156:5)
+    at setCursorNotified (/var/www/html/Tebse/tebse-nodeapi/node_modules/mongodb-core/lib/cursor.js:506:3)
+    at /var/www/html/Tebse/tebse-nodeapi/node_modules/mongodb-core/lib/cursor.js:579:16
+    at Object.queryCallback [as cb] (/var/www/html/Tebse/tebse-nodeapi/node_modules/mongodb-core/lib/cursor.js:238:5)
+    at /var/www/html/Tebse/tebse-nodeapi/node_modules/mongodb-core/lib/connection/pool.js:446:18
+/var/www/html/Tebse/tebse-nodeapi/node_modules/mongodb/lib/utils.js:98
+    process.nextTick(function() { throw err; });
+                                  ^
+
+TypeError: Cannot read property 'userId' of null
+    at /var/www/html/Tebse/tebse-nodeapi/controllers/order.js:2659:37
+    at handleCallback (/var/www/html/Tebse/tebse-nodeapi/node_modules/mongodb/lib/utils.js:96:12)
+    at /var/www/html/Tebse/tebse-nodeapi/node_modules/mongodb/lib/collection.js:1392:5
+    at handleCallback (/var/www/html/Tebse/tebse-nodeapi/node_modules/mongodb/lib/utils.js:96:12)
+    at /var/www/html/Tebse/tebse-nodeapi/node_modules/mongodb/lib/cursor.js:676:5
+    at handleCallback (/var/www/html/Tebse/tebse-nodeapi/node_modules/mongodb-core/lib/cursor.js:156:5)
+    at setCursorNotified (/var/www/html/Tebse/tebse-nodeapi/node_modules/mongodb-core/lib/cursor.js:506:3)
+    at /var/www/html/Tebse/tebse-nodeapi/node_modules/mongodb-core/lib/cursor.js:579:16
+    at Object.queryCallback [as cb] (/var/www/html/Tebse/tebse-nodeapi/node_modules/mongodb-core/lib/cursor.js:238:5)
+    at /var/www/html/Tebse/tebse-nodeapi/node_modules/mongodb-core/lib/connection/pool.js:446:18
+/var/www/html/Tebse/tebse-nodeapi/node_modules/mongodb/lib/utils.js:98
+    process.nextTick(function() { throw err; });
+                                  ^
+
+TypeError: Cannot read property 'userId' of null
+    at /var/www/html/Tebse/tebse-nodeapi/controllers/order.js:2659:37
+    at handleCallback (/var/www/html/Tebse/tebse-nodeapi/node_modules/mongodb/lib/utils.js:96:12)
+    at /var/www/html/Tebse/tebse-nodeapi/node_modules/mongodb/lib/collection.js:1392:5
+    at handleCallback (/var/www/html/Tebse/tebse-nodeapi/node_modules/mongodb/lib/utils.js:96:12)
+    at /var/www/html/Tebse/tebse-nodeapi/node_modules/mongodb/lib/cursor.js:676:5
+    at handleCallback (/var/www/html/Tebse/tebse-nodeapi/node_modules/mongodb-core/lib/cursor.js:156:5)
+    at setCursorNotified (/var/www/html/Tebse/tebse-nodeapi/node_modules/mongodb-core/lib/cursor.js:506:3)
+    at /var/www/html/Tebse/tebse-nodeapi/node_modules/mongodb-core/lib/cursor.js:579:16
+    at Object.queryCallback [as cb] (/var/www/html/Tebse/tebse-nodeapi/node_modules/mongodb-core/lib/cursor.js:238:5)
+    at /var/www/html/Tebse/tebse-nodeapi/node_modules/mongodb-core/lib/connection/pool.js:446:18
+/var/www/html/Tebse/tebse-nodeapi/node_modules/mongodb/lib/utils.js:98
+    process.nextTick(function() { throw err; });
+                                  ^
+
+Error: Argument passed in must be a single String of 12 bytes or a string of 24 hex characters
+    at new ObjectID (/var/www/html/Tebse/tebse-nodeapi/node_modules/bson/lib/bson/objectid.js:34:11)
+    at /var/www/html/Tebse/tebse-nodeapi/controllers/order.js:2692:31
+    at handleCallback (/var/www/html/Tebse/tebse-nodeapi/node_modules/mongodb/lib/utils.js:96:12)
+    at /var/www/html/Tebse/tebse-nodeapi/node_modules/mongodb/lib/collection.js:2666:7
+    at handleCallback (/var/www/html/Tebse/tebse-nodeapi/node_modules/mongodb/lib/utils.js:96:12)
+    at Object.cb (/var/www/html/Tebse/tebse-nodeapi/node_modules/mongodb/lib/db.js:310:5)
+    at /var/www/html/Tebse/tebse-nodeapi/node_modules/mongodb-core/lib/connection/pool.js:446:18
+    at authenticateStragglers (/var/www/html/Tebse/tebse-nodeapi/node_modules/mongodb-core/lib/connection/pool.js:402:16)
+    at .messageHandler (/var/www/html/Tebse/tebse-nodeapi/node_modules/mongodb-core/lib/connection/pool.js:424:5)
+    at Socket.<anonymous> (/var/www/html/Tebse/tebse-nodeapi/node_modules/mongodb-core/lib/connection/connection.js:294:22)
+/var/www/html/Tebse/tebse-nodeapi/node_modules/mongodb/lib/utils.js:98
+    process.nextTick(function() { throw err; });
+                                  ^
+
+Error: Argument passed in must be a single String of 12 bytes or a string of 24 hex characters
+    at new ObjectID (/var/www/html/Tebse/tebse-nodeapi/node_modules/bson/lib/bson/objectid.js:34:11)
+    at /var/www/html/Tebse/tebse-nodeapi/controllers/order.js:2692:31
+    at handleCallback (/var/www/html/Tebse/tebse-nodeapi/node_modules/mongodb/lib/utils.js:96:12)
+    at /var/www/html/Tebse/tebse-nodeapi/node_modules/mongodb/lib/collection.js:2666:7
+    at handleCallback (/var/www/html/Tebse/tebse-nodeapi/node_modules/mongodb/lib/utils.js:96:12)
+    at Object.cb (/var/www/html/Tebse/tebse-nodeapi/node_modules/mongodb/lib/db.js:310:5)
+    at /var/www/html/Tebse/tebse-nodeapi/node_modules/mongodb-core/lib/connection/pool.js:446:18
+    at authenticateStragglers (/var/www/html/Tebse/tebse-nodeapi/node_modules/mongodb-core/lib/connection/pool.js:402:16)
+    at .messageHandler (/var/www/html/Tebse/tebse-nodeapi/node_modules/mongodb-core/lib/connection/pool.js:424:5)
+    at Socket.<anonymous> (/var/www/html/Tebse/tebse-nodeapi/node_modules/mongodb-core/lib/connection/connection.js:294:22)
+/var/www/html/Tebse/tebse-nodeapi/node_modules/mongodb/lib/utils.js:98
+    process.nextTick(function() { throw err; });
+                                  ^
+
+Error: Argument passed in must be a single String of 12 bytes or a string of 24 hex characters
+    at new ObjectID (/var/www/html/Tebse/tebse-nodeapi/node_modules/bson/lib/bson/objectid.js:34:11)
+    at /var/www/html/Tebse/tebse-nodeapi/controllers/order.js:2692:31
+    at handleCallback (/var/www/html/Tebse/tebse-nodeapi/node_modules/mongodb/lib/utils.js:96:12)
+    at /var/www/html/Tebse/tebse-nodeapi/node_modules/mongodb/lib/collection.js:2666:7
+    at handleCallback (/var/www/html/Tebse/tebse-nodeapi/node_modules/mongodb/lib/utils.js:96:12)
+    at Object.cb (/var/www/html/Tebse/tebse-nodeapi/node_modules/mongodb/lib/db.js:310:5)
+    at /var/www/html/Tebse/tebse-nodeapi/node_modules/mongodb-core/lib/connection/pool.js:446:18
+    at authenticateStragglers (/var/www/html/Tebse/tebse-nodeapi/node_modules/mongodb-core/lib/connection/pool.js:402:16)
+    at .messageHandler (/var/www/html/Tebse/tebse-nodeapi/node_modules/mongodb-core/lib/connection/pool.js:424:5)
+    at Socket.<anonymous> (/var/www/html/Tebse/tebse-nodeapi/node_modules/mongodb-core/lib/connection/connection.js:294:22)
+/var/www/html/Tebse/tebse-nodeapi/node_modules/mongodb/lib/utils.js:98
+    process.nextTick(function() { throw err; });
+                                  ^
+
+Error: Argument passed in must be a single String of 12 bytes or a string of 24 hex characters
+    at new ObjectID (/var/www/html/Tebse/tebse-nodeapi/node_modules/bson/lib/bson/objectid.js:34:11)
+    at /var/www/html/Tebse/tebse-nodeapi/controllers/order.js:2692:31
+    at handleCallback (/var/www/html/Tebse/tebse-nodeapi/node_modules/mongodb/lib/utils.js:96:12)
+    at /var/www/html/Tebse/tebse-nodeapi/node_modules/mongodb/lib/collection.js:2666:7
+    at handleCallback (/var/www/html/Tebse/tebse-nodeapi/node_modules/mongodb/lib/utils.js:96:12)
+    at Object.cb (/var/www/html/Tebse/tebse-nodeapi/node_modules/mongodb/lib/db.js:310:5)
+    at /var/www/html/Tebse/tebse-nodeapi/node_modules/mongodb-core/lib/connection/pool.js:446:18
+    at authenticateStragglers (/var/www/html/Tebse/tebse-nodeapi/node_modules/mongodb-core/lib/connection/pool.js:402:16)
+    at .messageHandler (/var/www/html/Tebse/tebse-nodeapi/node_modules/mongodb-core/lib/connection/pool.js:424:5)
+    at Socket.<anonymous> (/var/www/html/Tebse/tebse-nodeapi/node_modules/mongodb-core/lib/connection/connection.js:294:22)
+/var/www/html/Tebse/tebse-nodeapi/node_modules/mongodb/lib/utils.js:98
+    process.nextTick(function() { throw err; });
+                                  ^
+
+Error: Argument passed in must be a single String of 12 bytes or a string of 24 hex characters
+    at new ObjectID (/var/www/html/Tebse/tebse-nodeapi/node_modules/bson/lib/bson/objectid.js:34:11)
+    at /var/www/html/Tebse/tebse-nodeapi/controllers/order.js:2692:31
+    at handleCallback (/var/www/html/Tebse/tebse-nodeapi/node_modules/mongodb/lib/utils.js:96:12)
+    at /var/www/html/Tebse/tebse-nodeapi/node_modules/mongodb/lib/collection.js:2666:7
+    at handleCallback (/var/www/html/Tebse/tebse-nodeapi/node_modules/mongodb/lib/utils.js:96:12)
+    at Object.cb (/var/www/html/Tebse/tebse-nodeapi/node_modules/mongodb/lib/db.js:310:5)
+    at /var/www/html/Tebse/tebse-nodeapi/node_modules/mongodb-core/lib/connection/pool.js:446:18
+    at authenticateStragglers (/var/www/html/Tebse/tebse-nodeapi/node_modules/mongodb-core/lib/connection/pool.js:402:16)
+    at .messageHandler (/var/www/html/Tebse/tebse-nodeapi/node_modules/mongodb-core/lib/connection/pool.js:424:5)
+    at Socket.<anonymous> (/var/www/html/Tebse/tebse-nodeapi/node_modules/mongodb-core/lib/connection/connection.js:294:22)
+/var/www/html/Tebse/tebse-nodeapi/node_modules/mongodb/lib/utils.js:98
+    process.nextTick(function() { throw err; });
+                                  ^
+
+Error: Argument passed in must be a single String of 12 bytes or a string of 24 hex characters
+    at new ObjectID (/var/www/html/Tebse/tebse-nodeapi/node_modules/bson/lib/bson/objectid.js:34:11)
+    at /var/www/html/Tebse/tebse-nodeapi/controllers/order.js:2692:31
+    at handleCallback (/var/www/html/Tebse/tebse-nodeapi/node_modules/mongodb/lib/utils.js:96:12)
+    at /var/www/html/Tebse/tebse-nodeapi/node_modules/mongodb/lib/collection.js:2666:7
+    at handleCallback (/var/www/html/Tebse/tebse-nodeapi/node_modules/mongodb/lib/utils.js:96:12)
+    at Object.cb (/var/www/html/Tebse/tebse-nodeapi/node_modules/mongodb/lib/db.js:310:5)
+    at /var/www/html/Tebse/tebse-nodeapi/node_modules/mongodb-core/lib/connection/pool.js:446:18
+    at authenticateStragglers (/var/www/html/Tebse/tebse-nodeapi/node_modules/mongodb-core/lib/connection/pool.js:402:16)
+    at .messageHandler (/var/www/html/Tebse/tebse-nodeapi/node_modules/mongodb-core/lib/connection/pool.js:424:5)
+    at Socket.<anonymous> (/var/www/html/Tebse/tebse-nodeapi/node_modules/mongodb-core/lib/connection/connection.js:294:22)
+/var/www/html/Tebse/tebse-nodeapi/node_modules/mongodb/lib/utils.js:98
+    process.nextTick(function() { throw err; });
+                                  ^
+
+Error: Argument passed in must be a single String of 12 bytes or a string of 24 hex characters
+    at new ObjectID (/var/www/html/Tebse/tebse-nodeapi/node_modules/bson/lib/bson/objectid.js:34:11)
+    at /var/www/html/Tebse/tebse-nodeapi/controllers/order.js:2692:31
+    at handleCallback (/var/www/html/Tebse/tebse-nodeapi/node_modules/mongodb/lib/utils.js:96:12)
+    at /var/www/html/Tebse/tebse-nodeapi/node_modules/mongodb/lib/collection.js:2666:7
+    at handleCallback (/var/www/html/Tebse/tebse-nodeapi/node_modules/mongodb/lib/utils.js:96:12)
+    at Object.cb (/var/www/html/Tebse/tebse-nodeapi/node_modules/mongodb/lib/db.js:310:5)
+    at /var/www/html/Tebse/tebse-nodeapi/node_modules/mongodb-core/lib/connection/pool.js:446:18
+    at authenticateStragglers (/var/www/html/Tebse/tebse-nodeapi/node_modules/mongodb-core/lib/connection/pool.js:402:16)
+    at .messageHandler (/var/www/html/Tebse/tebse-nodeapi/node_modules/mongodb-core/lib/connection/pool.js:424:5)
+    at Socket.<anonymous> (/var/www/html/Tebse/tebse-nodeapi/node_modules/mongodb-core/lib/connection/connection.js:294:22)
+/var/www/html/Tebse/tebse-nodeapi/node_modules/mongodb/lib/utils.js:98
+    process.nextTick(function() { throw err; });
+                                  ^
+
+Error: Argument passed in must be a single String of 12 bytes or a string of 24 hex characters
+    at new ObjectID (/var/www/html/Tebse/tebse-nodeapi/node_modules/bson/lib/bson/objectid.js:34:11)
+    at /var/www/html/Tebse/tebse-nodeapi/controllers/order.js:2692:31
+    at handleCallback (/var/www/html/Tebse/tebse-nodeapi/node_modules/mongodb/lib/utils.js:96:12)
+    at /var/www/html/Tebse/tebse-nodeapi/node_modules/mongodb/lib/collection.js:2666:7
+    at handleCallback (/var/www/html/Tebse/tebse-nodeapi/node_modules/mongodb/lib/utils.js:96:12)
+    at Object.cb (/var/www/html/Tebse/tebse-nodeapi/node_modules/mongodb/lib/db.js:310:5)
+    at /var/www/html/Tebse/tebse-nodeapi/node_modules/mongodb-core/lib/connection/pool.js:446:18
+    at authenticateStragglers (/var/www/html/Tebse/tebse-nodeapi/node_modules/mongodb-core/lib/connection/pool.js:402:16)
+    at .messageHandler (/var/www/html/Tebse/tebse-nodeapi/node_modules/mongodb-core/lib/connection/pool.js:424:5)
+    at Socket.<anonymous> (/var/www/html/Tebse/tebse-nodeapi/node_modules/mongodb-core/lib/connection/connection.js:294:22)
+/var/www/html/Tebse/tebse-nodeapi/node_modules/mongodb/lib/utils.js:98
+    process.nextTick(function() { throw err; });
+                                  ^
+
+Error: Argument passed in must be a single String of 12 bytes or a string of 24 hex characters
+    at new ObjectID (/var/www/html/Tebse/tebse-nodeapi/node_modules/bson/lib/bson/objectid.js:34:11)
+    at /var/www/html/Tebse/tebse-nodeapi/controllers/order.js:2692:31
+    at handleCallback (/var/www/html/Tebse/tebse-nodeapi/node_modules/mongodb/lib/utils.js:96:12)
+    at /var/www/html/Tebse/tebse-nodeapi/node_modules/mongodb/lib/collection.js:2666:7
+    at handleCallback (/var/www/html/Tebse/tebse-nodeapi/node_modules/mongodb/lib/utils.js:96:12)
+    at Object.cb (/var/www/html/Tebse/tebse-nodeapi/node_modules/mongodb/lib/db.js:310:5)
+    at /var/www/html/Tebse/tebse-nodeapi/node_modules/mongodb-core/lib/connection/pool.js:446:18
+    at authenticateStragglers (/var/www/html/Tebse/tebse-nodeapi/node_modules/mongodb-core/lib/connection/pool.js:402:16)
+    at .messageHandler (/var/www/html/Tebse/tebse-nodeapi/node_modules/mongodb-core/lib/connection/pool.js:424:5)
+    at Socket.<anonymous> (/var/www/html/Tebse/tebse-nodeapi/node_modules/mongodb-core/lib/connection/connection.js:294:22)
+events.js:160
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: Connection lost: The server closed the connection.
+    at Protocol.end (/var/www/html/Tebse/tebse-nodeapi/node_modules/mysql/lib/protocol/Protocol.js:109:13)
+    at Socket.<anonymous> (/var/www/html/Tebse/tebse-nodeapi/node_modules/mysql/lib/Connection.js:115:28)
+    at emitNone (events.js:91:20)
+    at Socket.emit (events.js:185:7)
+    at endReadableNT (_stream_readable.js:934:12)
+    at _combinedTickCallback (internal/process/next_tick.js:74:11)
+    at process._tickCallback (internal/process/next_tick.js:98:9)
+/var/www/html/Tebse/tebse-nodeapi/node_modules/mongodb/lib/utils.js:98
+    process.nextTick(function() { throw err; });
+                                  ^
+
+TypeError: Cannot read property 'userId' of null
+    at /var/www/html/Tebse/tebse-nodeapi/controllers/order.js:2778:37
+    at handleCallback (/var/www/html/Tebse/tebse-nodeapi/node_modules/mongodb/lib/utils.js:96:12)
+    at /var/www/html/Tebse/tebse-nodeapi/node_modules/mongodb/lib/collection.js:1392:5
+    at handleCallback (/var/www/html/Tebse/tebse-nodeapi/node_modules/mongodb/lib/utils.js:96:12)
+    at /var/www/html/Tebse/tebse-nodeapi/node_modules/mongodb/lib/cursor.js:676:5
+    at handleCallback (/var/www/html/Tebse/tebse-nodeapi/node_modules/mongodb-core/lib/cursor.js:156:5)
+    at setCursorNotified (/var/www/html/Tebse/tebse-nodeapi/node_modules/mongodb-core/lib/cursor.js:506:3)
+    at /var/www/html/Tebse/tebse-nodeapi/node_modules/mongodb-core/lib/cursor.js:579:16
+    at Object.queryCallback [as cb] (/var/www/html/Tebse/tebse-nodeapi/node_modules/mongodb-core/lib/cursor.js:238:5)
+    at /var/www/html/Tebse/tebse-nodeapi/node_modules/mongodb-core/lib/connection/pool.js:446:18
+/var/www/html/Tebse/tebse-nodeapi/node_modules/mongodb/lib/utils.js:98
+    process.nextTick(function() { throw err; });
+                                  ^
+
+TypeError: Cannot read property 'userId' of null
+    at /var/www/html/Tebse/tebse-nodeapi/controllers/order.js:2818:37
+    at handleCallback (/var/www/html/Tebse/tebse-nodeapi/node_modules/mongodb/lib/utils.js:96:12)
+    at /var/www/html/Tebse/tebse-nodeapi/node_modules/mongodb/lib/collection.js:1392:5
+    at handleCallback (/var/www/html/Tebse/tebse-nodeapi/node_modules/mongodb/lib/utils.js:96:12)
+    at /var/www/html/Tebse/tebse-nodeapi/node_modules/mongodb/lib/cursor.js:676:5
+    at handleCallback (/var/www/html/Tebse/tebse-nodeapi/node_modules/mongodb-core/lib/cursor.js:156:5)
+    at setCursorNotified (/var/www/html/Tebse/tebse-nodeapi/node_modules/mongodb-core/lib/cursor.js:506:3)
+    at /var/www/html/Tebse/tebse-nodeapi/node_modules/mongodb-core/lib/cursor.js:579:16
+    at Object.queryCallback [as cb] (/var/www/html/Tebse/tebse-nodeapi/node_modules/mongodb-core/lib/cursor.js:238:5)
+    at /var/www/html/Tebse/tebse-nodeapi/node_modules/mongodb-core/lib/connection/pool.js:446:18
+/var/www/html/Tebse/tebse-nodeapi/node_modules/mongodb/lib/utils.js:98
+    process.nextTick(function() { throw err; });
+                                  ^
+
+TypeError: Cannot read property 'userId' of null
+    at /var/www/html/Tebse/tebse-nodeapi/controllers/order.js:2818:37
+    at handleCallback (/var/www/html/Tebse/tebse-nodeapi/node_modules/mongodb/lib/utils.js:96:12)
+    at /var/www/html/Tebse/tebse-nodeapi/node_modules/mongodb/lib/collection.js:1392:5
+    at handleCallback (/var/www/html/Tebse/tebse-nodeapi/node_modules/mongodb/lib/utils.js:96:12)
+    at /var/www/html/Tebse/tebse-nodeapi/node_modules/mongodb/lib/cursor.js:676:5
+    at handleCallback (/var/www/html/Tebse/tebse-nodeapi/node_modules/mongodb-core/lib/cursor.js:156:5)
+    at setCursorNotified (/var/www/html/Tebse/tebse-nodeapi/node_modules/mongodb-core/lib/cursor.js:506:3)
+    at /var/www/html/Tebse/tebse-nodeapi/node_modules/mongodb-core/lib/cursor.js:579:16
+    at Object.queryCallback [as cb] (/var/www/html/Tebse/tebse-nodeapi/node_modules/mongodb-core/lib/cursor.js:238:5)
+    at /var/www/html/Tebse/tebse-nodeapi/node_modules/mongodb-core/lib/connection/pool.js:446:18
+/var/www/html/Tebse/tebse-nodeapi/node_modules/mongodb/lib/utils.js:98
+    process.nextTick(function() { throw err; });
+                                  ^
+
+TypeError: Cannot read property 'userId' of null
+    at /var/www/html/Tebse/tebse-nodeapi/controllers/order.js:2818:37
+    at handleCallback (/var/www/html/Tebse/tebse-nodeapi/node_modules/mongodb/lib/utils.js:96:12)
+    at /var/www/html/Tebse/tebse-nodeapi/node_modules/mongodb/lib/collection.js:1392:5
+    at handleCallback (/var/www/html/Tebse/tebse-nodeapi/node_modules/mongodb/lib/utils.js:96:12)
+    at /var/www/html/Tebse/tebse-nodeapi/node_modules/mongodb/lib/cursor.js:676:5
+    at handleCallback (/var/www/html/Tebse/tebse-nodeapi/node_modules/mongodb-core/lib/cursor.js:156:5)
+    at setCursorNotified (/var/www/html/Tebse/tebse-nodeapi/node_modules/mongodb-core/lib/cursor.js:506:3)
+    at /var/www/html/Tebse/tebse-nodeapi/node_modules/mongodb-core/lib/cursor.js:579:16
+    at Object.queryCallback [as cb] (/var/www/html/Tebse/tebse-nodeapi/node_modules/mongodb-core/lib/cursor.js:238:5)
+    at /var/www/html/Tebse/tebse-nodeapi/node_modules/mongodb-core/lib/connection/pool.js:446:18
+/var/www/html/Tebse/tebse-nodeapi/node_modules/mongodb/lib/utils.js:98
+    process.nextTick(function() { throw err; });
+                                  ^
+
+Error: Argument passed in must be a single String of 12 bytes or a string of 24 hex characters
+    at new ObjectID (/var/www/html/Tebse/tebse-nodeapi/node_modules/bson/lib/bson/objectid.js:34:11)
+    at /var/www/html/Tebse/tebse-nodeapi/controllers/order.js:2851:31
+    at handleCallback (/var/www/html/Tebse/tebse-nodeapi/node_modules/mongodb/lib/utils.js:96:12)
+    at /var/www/html/Tebse/tebse-nodeapi/node_modules/mongodb/lib/collection.js:2666:7
+    at handleCallback (/var/www/html/Tebse/tebse-nodeapi/node_modules/mongodb/lib/utils.js:96:12)
+    at Object.cb (/var/www/html/Tebse/tebse-nodeapi/node_modules/mongodb/lib/db.js:310:5)
+    at /var/www/html/Tebse/tebse-nodeapi/node_modules/mongodb-core/lib/connection/pool.js:446:18
+    at authenticateStragglers (/var/www/html/Tebse/tebse-nodeapi/node_modules/mongodb-core/lib/connection/pool.js:402:16)
+    at .messageHandler (/var/www/html/Tebse/tebse-nodeapi/node_modules/mongodb-core/lib/connection/pool.js:424:5)
+    at Socket.<anonymous> (/var/www/html/Tebse/tebse-nodeapi/node_modules/mongodb-core/lib/connection/connection.js:294:22)
+/var/www/html/Tebse/tebse-nodeapi/node_modules/mongodb/lib/utils.js:98
+    process.nextTick(function() { throw err; });
+                                  ^
+
+Error: Argument passed in must be a single String of 12 bytes or a string of 24 hex characters
+    at new ObjectID (/var/www/html/Tebse/tebse-nodeapi/node_modules/bson/lib/bson/objectid.js:34:11)
+    at /var/www/html/Tebse/tebse-nodeapi/controllers/order.js:2851:31
+    at handleCallback (/var/www/html/Tebse/tebse-nodeapi/node_modules/mongodb/lib/utils.js:96:12)
+    at /var/www/html/Tebse/tebse-nodeapi/node_modules/mongodb/lib/collection.js:2666:7
+    at handleCallback (/var/www/html/Tebse/tebse-nodeapi/node_modules/mongodb/lib/utils.js:96:12)
+    at Object.cb (/var/www/html/Tebse/tebse-nodeapi/node_modules/mongodb/lib/db.js:310:5)
+    at /var/www/html/Tebse/tebse-nodeapi/node_modules/mongodb-core/lib/connection/pool.js:446:18
+    at authenticateStragglers (/var/www/html/Tebse/tebse-nodeapi/node_modules/mongodb-core/lib/connection/pool.js:402:16)
+    at .messageHandler (/var/www/html/Tebse/tebse-nodeapi/node_modules/mongodb-core/lib/connection/pool.js:424:5)
+    at Socket.<anonymous> (/var/www/html/Tebse/tebse-nodeapi/node_modules/mongodb-core/lib/connection/connection.js:294:22)
+/var/www/html/Tebse/tebse-nodeapi/node_modules/mongodb/lib/utils.js:98
+    process.nextTick(function() { throw err; });
+                                  ^
+
+Error: Argument passed in must be a single String of 12 bytes or a string of 24 hex characters
+    at new ObjectID (/var/www/html/Tebse/tebse-nodeapi/node_modules/bson/lib/bson/objectid.js:34:11)
+    at /var/www/html/Tebse/tebse-nodeapi/controllers/order.js:2851:31
+    at handleCallback (/var/www/html/Tebse/tebse-nodeapi/node_modules/mongodb/lib/utils.js:96:12)
+    at /var/www/html/Tebse/tebse-nodeapi/node_modules/mongodb/lib/collection.js:2666:7
+    at handleCallback (/var/www/html/Tebse/tebse-nodeapi/node_modules/mongodb/lib/utils.js:96:12)
+    at Object.cb (/var/www/html/Tebse/tebse-nodeapi/node_modules/mongodb/lib/db.js:310:5)
+    at /var/www/html/Tebse/tebse-nodeapi/node_modules/mongodb-core/lib/connection/pool.js:446:18
+    at authenticateStragglers (/var/www/html/Tebse/tebse-nodeapi/node_modules/mongodb-core/lib/connection/pool.js:402:16)
+    at .messageHandler (/var/www/html/Tebse/tebse-nodeapi/node_modules/mongodb-core/lib/connection/pool.js:424:5)
+    at Socket.<anonymous> (/var/www/html/Tebse/tebse-nodeapi/node_modules/mongodb-core/lib/connection/connection.js:294:22)
+/var/www/html/Tebse/tebse-nodeapi/node_modules/mongodb/lib/utils.js:98
+    process.nextTick(function() { throw err; });
+                                  ^
+
+Error: Argument passed in must be a single String of 12 bytes or a string of 24 hex characters
+    at new ObjectID (/var/www/html/Tebse/tebse-nodeapi/node_modules/bson/lib/bson/objectid.js:34:11)
+    at /var/www/html/Tebse/tebse-nodeapi/controllers/order.js:2851:31
+    at handleCallback (/var/www/html/Tebse/tebse-nodeapi/node_modules/mongodb/lib/utils.js:96:12)
+    at /var/www/html/Tebse/tebse-nodeapi/node_modules/mongodb/lib/collection.js:2666:7
+    at handleCallback (/var/www/html/Tebse/tebse-nodeapi/node_modules/mongodb/lib/utils.js:96:12)
+    at Object.cb (/var/www/html/Tebse/tebse-nodeapi/node_modules/mongodb/lib/db.js:310:5)
+    at /var/www/html/Tebse/tebse-nodeapi/node_modules/mongodb-core/lib/connection/pool.js:446:18
+    at authenticateStragglers (/var/www/html/Tebse/tebse-nodeapi/node_modules/mongodb-core/lib/connection/pool.js:402:16)
+    at .messageHandler (/var/www/html/Tebse/tebse-nodeapi/node_modules/mongodb-core/lib/connection/pool.js:424:5)
+    at Socket.<anonymous> (/var/www/html/Tebse/tebse-nodeapi/node_modules/mongodb-core/lib/connection/connection.js:294:22)
+/var/www/html/Tebse/tebse-nodeapi/node_modules/mongodb/lib/utils.js:98
+    process.nextTick(function() { throw err; });
+                                  ^
+
+Error: Argument passed in must be a single String of 12 bytes or a string of 24 hex characters
+    at new ObjectID (/var/www/html/Tebse/tebse-nodeapi/node_modules/bson/lib/bson/objectid.js:34:11)
+    at /var/www/html/Tebse/tebse-nodeapi/controllers/order.js:2851:31
+    at handleCallback (/var/www/html/Tebse/tebse-nodeapi/node_modules/mongodb/lib/utils.js:96:12)
+    at /var/www/html/Tebse/tebse-nodeapi/node_modules/mongodb/lib/collection.js:2666:7
+    at handleCallback (/var/www/html/Tebse/tebse-nodeapi/node_modules/mongodb/lib/utils.js:96:12)
+    at Object.cb (/var/www/html/Tebse/tebse-nodeapi/node_modules/mongodb/lib/db.js:310:5)
+    at /var/www/html/Tebse/tebse-nodeapi/node_modules/mongodb-core/lib/connection/pool.js:446:18
+    at authenticateStragglers (/var/www/html/Tebse/tebse-nodeapi/node_modules/mongodb-core/lib/connection/pool.js:402:16)
+    at .messageHandler (/var/www/html/Tebse/tebse-nodeapi/node_modules/mongodb-core/lib/connection/pool.js:424:5)
+    at Socket.<anonymous> (/var/www/html/Tebse/tebse-nodeapi/node_modules/mongodb-core/lib/connection/connection.js:294:22)
+/var/www/html/Tebse/tebse-nodeapi/node_modules/mongodb/lib/utils.js:98
+    process.nextTick(function() { throw err; });
+                                  ^
+
+Error: Argument passed in must be a single String of 12 bytes or a string of 24 hex characters
+    at new ObjectID (/var/www/html/Tebse/tebse-nodeapi/node_modules/bson/lib/bson/objectid.js:34:11)
+    at /var/www/html/Tebse/tebse-nodeapi/controllers/order.js:2851:31
+    at handleCallback (/var/www/html/Tebse/tebse-nodeapi/node_modules/mongodb/lib/utils.js:96:12)
+    at /var/www/html/Tebse/tebse-nodeapi/node_modules/mongodb/lib/collection.js:2666:7
+    at handleCallback (/var/www/html/Tebse/tebse-nodeapi/node_modules/mongodb/lib/utils.js:96:12)
+    at Object.cb (/var/www/html/Tebse/tebse-nodeapi/node_modules/mongodb/lib/db.js:310:5)
+    at /var/www/html/Tebse/tebse-nodeapi/node_modules/mongodb-core/lib/connection/pool.js:446:18
+    at authenticateStragglers (/var/www/html/Tebse/tebse-nodeapi/node_modules/mongodb-core/lib/connection/pool.js:402:16)
+    at .messageHandler (/var/www/html/Tebse/tebse-nodeapi/node_modules/mongodb-core/lib/connection/pool.js:424:5)
+    at Socket.<anonymous> (/var/www/html/Tebse/tebse-nodeapi/node_modules/mongodb-core/lib/connection/connection.js:294:22)
+/var/www/html/Tebse/tebse-nodeapi/node_modules/mongodb/lib/utils.js:98
+    process.nextTick(function() { throw err; });
+                                  ^
+
+Error: Argument passed in must be a single String of 12 bytes or a string of 24 hex characters
+    at new ObjectID (/var/www/html/Tebse/tebse-nodeapi/node_modules/bson/lib/bson/objectid.js:34:11)
+    at /var/www/html/Tebse/tebse-nodeapi/controllers/order.js:2851:31
+    at handleCallback (/var/www/html/Tebse/tebse-nodeapi/node_modules/mongodb/lib/utils.js:96:12)
+    at /var/www/html/Tebse/tebse-nodeapi/node_modules/mongodb/lib/collection.js:2666:7
+    at handleCallback (/var/www/html/Tebse/tebse-nodeapi/node_modules/mongodb/lib/utils.js:96:12)
+    at Object.cb (/var/www/html/Tebse/tebse-nodeapi/node_modules/mongodb/lib/db.js:310:5)
+    at /var/www/html/Tebse/tebse-nodeapi/node_modules/mongodb-core/lib/connection/pool.js:446:18
+    at authenticateStragglers (/var/www/html/Tebse/tebse-nodeapi/node_modules/mongodb-core/lib/connection/pool.js:402:16)
+    at .messageHandler (/var/www/html/Tebse/tebse-nodeapi/node_modules/mongodb-core/lib/connection/pool.js:424:5)
+    at Socket.<anonymous> (/var/www/html/Tebse/tebse-nodeapi/node_modules/mongodb-core/lib/connection/connection.js:294:22)
+/var/www/html/Tebse/tebse-nodeapi/node_modules/mongodb/lib/utils.js:98
+    process.nextTick(function() { throw err; });
+                                  ^
+
+Error: Argument passed in must be a single String of 12 bytes or a string of 24 hex characters
+    at new ObjectID (/var/www/html/Tebse/tebse-nodeapi/node_modules/bson/lib/bson/objectid.js:34:11)
+    at /var/www/html/Tebse/tebse-nodeapi/controllers/order.js:2851:31
+    at handleCallback (/var/www/html/Tebse/tebse-nodeapi/node_modules/mongodb/lib/utils.js:96:12)
+    at /var/www/html/Tebse/tebse-nodeapi/node_modules/mongodb/lib/collection.js:2666:7
+    at handleCallback (/var/www/html/Tebse/tebse-nodeapi/node_modules/mongodb/lib/utils.js:96:12)
+    at Object.cb (/var/www/html/Tebse/tebse-nodeapi/node_modules/mongodb/lib/db.js:310:5)
+    at /var/www/html/Tebse/tebse-nodeapi/node_modules/mongodb-core/lib/connection/pool.js:446:18
+    at authenticateStragglers (/var/www/html/Tebse/tebse-nodeapi/node_modules/mongodb-core/lib/connection/pool.js:402:16)
+    at .messageHandler (/var/www/html/Tebse/tebse-nodeapi/node_modules/mongodb-core/lib/connection/pool.js:424:5)
+    at Socket.<anonymous> (/var/www/html/Tebse/tebse-nodeapi/node_modules/mongodb-core/lib/connection/connection.js:294:22)
+/var/www/html/Tebse/tebse-nodeapi/node_modules/mongodb/lib/utils.js:98
+    process.nextTick(function() { throw err; });
+                                  ^
+
+Error: Argument passed in must be a single String of 12 bytes or a string of 24 hex characters
+    at new ObjectID (/var/www/html/Tebse/tebse-nodeapi/node_modules/bson/lib/bson/objectid.js:34:11)
+    at /var/www/html/Tebse/tebse-nodeapi/controllers/order.js:2851:31
+    at handleCallback (/var/www/html/Tebse/tebse-nodeapi/node_modules/mongodb/lib/utils.js:96:12)
+    at /var/www/html/Tebse/tebse-nodeapi/node_modules/mongodb/lib/collection.js:2666:7
+    at handleCallback (/var/www/html/Tebse/tebse-nodeapi/node_modules/mongodb/lib/utils.js:96:12)
+    at Object.cb (/var/www/html/Tebse/tebse-nodeapi/node_modules/mongodb/lib/db.js:310:5)
+    at /var/www/html/Tebse/tebse-nodeapi/node_modules/mongodb-core/lib/connection/pool.js:446:18
+    at authenticateStragglers (/var/www/html/Tebse/tebse-nodeapi/node_modules/mongodb-core/lib/connection/pool.js:402:16)
+    at .messageHandler (/var/www/html/Tebse/tebse-nodeapi/node_modules/mongodb-core/lib/connection/pool.js:424:5)
+    at Socket.<anonymous> (/var/www/html/Tebse/tebse-nodeapi/node_modules/mongodb-core/lib/connection/connection.js:294:22)
+/var/www/html/Tebse/tebse-nodeapi/node_modules/mongodb/lib/utils.js:98
+    process.nextTick(function() { throw err; });
+                                  ^
+
+Error: Argument passed in must be a single String of 12 bytes or a string of 24 hex characters
+    at new ObjectID (/var/www/html/Tebse/tebse-nodeapi/node_modules/bson/lib/bson/objectid.js:34:11)
+    at /var/www/html/Tebse/tebse-nodeapi/controllers/order.js:2851:31
+    at handleCallback (/var/www/html/Tebse/tebse-nodeapi/node_modules/mongodb/lib/utils.js:96:12)
+    at /var/www/html/Tebse/tebse-nodeapi/node_modules/mongodb/lib/collection.js:2666:7
+    at handleCallback (/var/www/html/Tebse/tebse-nodeapi/node_modules/mongodb/lib/utils.js:96:12)
+    at Object.cb (/var/www/html/Tebse/tebse-nodeapi/node_modules/mongodb/lib/db.js:310:5)
+    at /var/www/html/Tebse/tebse-nodeapi/node_modules/mongodb-core/lib/connection/pool.js:446:18
+    at authenticateStragglers (/var/www/html/Tebse/tebse-nodeapi/node_modules/mongodb-core/lib/connection/pool.js:402:16)
+    at .messageHandler (/var/www/html/Tebse/tebse-nodeapi/node_modules/mongodb-core/lib/connection/pool.js:424:5)
+    at Socket.<anonymous> (/var/www/html/Tebse/tebse-nodeapi/node_modules/mongodb-core/lib/connection/connection.js:294:22)
+/var/www/html/Tebse/tebse-nodeapi/node_modules/mongodb/lib/utils.js:98
+    process.nextTick(function() { throw err; });
+                                  ^
+
+Error: Argument passed in must be a single String of 12 bytes or a string of 24 hex characters
+    at new ObjectID (/var/www/html/Tebse/tebse-nodeapi/node_modules/bson/lib/bson/objectid.js:34:11)
+    at /var/www/html/Tebse/tebse-nodeapi/controllers/order.js:2851:31
+    at handleCallback (/var/www/html/Tebse/tebse-nodeapi/node_modules/mongodb/lib/utils.js:96:12)
+    at /var/www/html/Tebse/tebse-nodeapi/node_modules/mongodb/lib/collection.js:2666:7
+    at handleCallback (/var/www/html/Tebse/tebse-nodeapi/node_modules/mongodb/lib/utils.js:96:12)
+    at Object.cb (/var/www/html/Tebse/tebse-nodeapi/node_modules/mongodb/lib/db.js:310:5)
+    at /var/www/html/Tebse/tebse-nodeapi/node_modules/mongodb-core/lib/connection/pool.js:446:18
+    at authenticateStragglers (/var/www/html/Tebse/tebse-nodeapi/node_modules/mongodb-core/lib/connection/pool.js:402:16)
+    at .messageHandler (/var/www/html/Tebse/tebse-nodeapi/node_modules/mongodb-core/lib/connection/pool.js:424:5)
+    at Socket.<anonymous> (/var/www/html/Tebse/tebse-nodeapi/node_modules/mongodb-core/lib/connection/connection.js:294:22)
+/var/www/html/Tebse/tebse-nodeapi/node_modules/mongodb/lib/utils.js:98
+    process.nextTick(function() { throw err; });
+                                  ^
+
+Error: Argument passed in must be a single String of 12 bytes or a string of 24 hex characters
+    at new ObjectID (/var/www/html/Tebse/tebse-nodeapi/node_modules/bson/lib/bson/objectid.js:34:11)
+    at /var/www/html/Tebse/tebse-nodeapi/controllers/order.js:2851:31
+    at handleCallback (/var/www/html/Tebse/tebse-nodeapi/node_modules/mongodb/lib/utils.js:96:12)
+    at /var/www/html/Tebse/tebse-nodeapi/node_modules/mongodb/lib/collection.js:2666:7
+    at handleCallback (/var/www/html/Tebse/tebse-nodeapi/node_modules/mongodb/lib/utils.js:96:12)
+    at Object.cb (/var/www/html/Tebse/tebse-nodeapi/node_modules/mongodb/lib/db.js:310:5)
+    at /var/www/html/Tebse/tebse-nodeapi/node_modules/mongodb-core/lib/connection/pool.js:446:18
+    at authenticateStragglers (/var/www/html/Tebse/tebse-nodeapi/node_modules/mongodb-core/lib/connection/pool.js:402:16)
+    at .messageHandler (/var/www/html/Tebse/tebse-nodeapi/node_modules/mongodb-core/lib/connection/pool.js:424:5)
+    at Socket.<anonymous> (/var/www/html/Tebse/tebse-nodeapi/node_modules/mongodb-core/lib/connection/connection.js:294:22)
+/var/www/html/Tebse/tebse-nodeapi/node_modules/mongodb/lib/utils.js:98
+    process.nextTick(function() { throw err; });
+                                  ^
+
+Error: Argument passed in must be a single String of 12 bytes or a string of 24 hex characters
+    at new ObjectID (/var/www/html/Tebse/tebse-nodeapi/node_modules/bson/lib/bson/objectid.js:34:11)
+    at /var/www/html/Tebse/tebse-nodeapi/controllers/order.js:2851:31
+    at handleCallback (/var/www/html/Tebse/tebse-nodeapi/node_modules/mongodb/lib/utils.js:96:12)
+    at /var/www/html/Tebse/tebse-nodeapi/node_modules/mongodb/lib/collection.js:2666:7
+    at handleCallback (/var/www/html/Tebse/tebse-nodeapi/node_modules/mongodb/lib/utils.js:96:12)
+    at Object.cb (/var/www/html/Tebse/tebse-nodeapi/node_modules/mongodb/lib/db.js:310:5)
+    at /var/www/html/Tebse/tebse-nodeapi/node_modules/mongodb-core/lib/connection/pool.js:446:18
+    at authenticateStragglers (/var/www/html/Tebse/tebse-nodeapi/node_modules/mongodb-core/lib/connection/pool.js:402:16)
+    at .messageHandler (/var/www/html/Tebse/tebse-nodeapi/node_modules/mongodb-core/lib/connection/pool.js:424:5)
+    at Socket.<anonymous> (/var/www/html/Tebse/tebse-nodeapi/node_modules/mongodb-core/lib/connection/connection.js:294:22)
+/var/www/html/Tebse/tebse-nodeapi/node_modules/mongodb/lib/utils.js:98
+    process.nextTick(function() { throw err; });
+                                  ^
+
+Error: Argument passed in must be a single String of 12 bytes or a string of 24 hex characters
+    at new ObjectID (/var/www/html/Tebse/tebse-nodeapi/node_modules/bson/lib/bson/objectid.js:34:11)
+    at /var/www/html/Tebse/tebse-nodeapi/controllers/order.js:2851:31
+    at handleCallback (/var/www/html/Tebse/tebse-nodeapi/node_modules/mongodb/lib/utils.js:96:12)
+    at /var/www/html/Tebse/tebse-nodeapi/node_modules/mongodb/lib/collection.js:2666:7
+    at handleCallback (/var/www/html/Tebse/tebse-nodeapi/node_modules/mongodb/lib/utils.js:96:12)
+    at Object.cb (/var/www/html/Tebse/tebse-nodeapi/node_modules/mongodb/lib/db.js:310:5)
+    at /var/www/html/Tebse/tebse-nodeapi/node_modules/mongodb-core/lib/connection/pool.js:446:18
+    at authenticateStragglers (/var/www/html/Tebse/tebse-nodeapi/node_modules/mongodb-core/lib/connection/pool.js:402:16)
+    at .messageHandler (/var/www/html/Tebse/tebse-nodeapi/node_modules/mongodb-core/lib/connection/pool.js:424:5)
+    at Socket.<anonymous> (/var/www/html/Tebse/tebse-nodeapi/node_modules/mongodb-core/lib/connection/connection.js:294:22)
+/var/www/html/Tebse/tebse-nodeapi/node_modules/mongodb/lib/utils.js:98
+    process.nextTick(function() { throw err; });
+                                  ^
+
+TypeError: Cannot read property 'userId' of null
+    at /var/www/html/Tebse/tebse-nodeapi/controllers/order.js:2818:37
+    at handleCallback (/var/www/html/Tebse/tebse-nodeapi/node_modules/mongodb/lib/utils.js:96:12)
+    at /var/www/html/Tebse/tebse-nodeapi/node_modules/mongodb/lib/collection.js:1392:5
+    at handleCallback (/var/www/html/Tebse/tebse-nodeapi/node_modules/mongodb/lib/utils.js:96:12)
+    at /var/www/html/Tebse/tebse-nodeapi/node_modules/mongodb/lib/cursor.js:676:5
+    at handleCallback (/var/www/html/Tebse/tebse-nodeapi/node_modules/mongodb-core/lib/cursor.js:156:5)
+    at setCursorNotified (/var/www/html/Tebse/tebse-nodeapi/node_modules/mongodb-core/lib/cursor.js:506:3)
+    at /var/www/html/Tebse/tebse-nodeapi/node_modules/mongodb-core/lib/cursor.js:579:16
+    at Object.queryCallback [as cb] (/var/www/html/Tebse/tebse-nodeapi/node_modules/mongodb-core/lib/cursor.js:238:5)
+    at /var/www/html/Tebse/tebse-nodeapi/node_modules/mongodb-core/lib/connection/pool.js:446:18
+/var/www/html/Tebse/tebse-nodeapi/node_modules/mongodb/lib/utils.js:98
+    process.nextTick(function() { throw err; });
+                                  ^
+
+TypeError: Cannot read property 'userId' of null
+    at /var/www/html/Tebse/tebse-nodeapi/controllers/order.js:2818:37
+    at handleCallback (/var/www/html/Tebse/tebse-nodeapi/node_modules/mongodb/lib/utils.js:96:12)
+    at /var/www/html/Tebse/tebse-nodeapi/node_modules/mongodb/lib/collection.js:1392:5
+    at handleCallback (/var/www/html/Tebse/tebse-nodeapi/node_modules/mongodb/lib/utils.js:96:12)
+    at /var/www/html/Tebse/tebse-nodeapi/node_modules/mongodb/lib/cursor.js:676:5
+    at handleCallback (/var/www/html/Tebse/tebse-nodeapi/node_modules/mongodb-core/lib/cursor.js:156:5)
+    at setCursorNotified (/var/www/html/Tebse/tebse-nodeapi/node_modules/mongodb-core/lib/cursor.js:506:3)
+    at /var/www/html/Tebse/tebse-nodeapi/node_modules/mongodb-core/lib/cursor.js:579:16
+    at Object.queryCallback [as cb] (/var/www/html/Tebse/tebse-nodeapi/node_modules/mongodb-core/lib/cursor.js:238:5)
+    at /var/www/html/Tebse/tebse-nodeapi/node_modules/mongodb-core/lib/connection/pool.js:446:18
+/var/www/html/Tebse/tebse-nodeapi/node_modules/mongodb/lib/utils.js:98
+    process.nextTick(function() { throw err; });
+                                  ^
+
+Error: Argument passed in must be a single String of 12 bytes or a string of 24 hex characters
+    at new ObjectID (/var/www/html/Tebse/tebse-nodeapi/node_modules/bson/lib/bson/objectid.js:34:11)
+    at async.each.res.send.errNum (/var/www/html/Tebse/tebse-nodeapi/controllers/order.js:3110:26)
+    at /var/www/html/Tebse/tebse-nodeapi/node_modules/async/dist/async.js:3047:20
+    at eachOfArrayLike (/var/www/html/Tebse/tebse-nodeapi/node_modules/async/dist/async.js:1002:13)
+    at eachOf (/var/www/html/Tebse/tebse-nodeapi/node_modules/async/dist/async.js:1052:9)
+    at Object.eachLimit (/var/www/html/Tebse/tebse-nodeapi/node_modules/async/dist/async.js:3111:7)
+    at /var/www/html/Tebse/tebse-nodeapi/controllers/order.js:3107:19
+    at handleCallback (/var/www/html/Tebse/tebse-nodeapi/node_modules/mongodb/lib/utils.js:96:12)
+    at /var/www/html/Tebse/tebse-nodeapi/node_modules/mongodb/lib/cursor.js:858:16
+    at handleCallback (/var/www/html/Tebse/tebse-nodeapi/node_modules/mongodb-core/lib/cursor.js:156:5)
+/var/www/html/Tebse/tebse-nodeapi/node_modules/mongodb/lib/utils.js:98
+    process.nextTick(function() { throw err; });
+                                  ^
+
+Error: Argument passed in must be a single String of 12 bytes or a string of 24 hex characters
+    at new ObjectID (/var/www/html/Tebse/tebse-nodeapi/node_modules/bson/lib/bson/objectid.js:34:11)
+    at async.each.res.send.errNum (/var/www/html/Tebse/tebse-nodeapi/controllers/order.js:3110:26)
+    at /var/www/html/Tebse/tebse-nodeapi/node_modules/async/dist/async.js:3047:20
+    at eachOfArrayLike (/var/www/html/Tebse/tebse-nodeapi/node_modules/async/dist/async.js:1002:13)
+    at eachOf (/var/www/html/Tebse/tebse-nodeapi/node_modules/async/dist/async.js:1052:9)
+    at Object.eachLimit (/var/www/html/Tebse/tebse-nodeapi/node_modules/async/dist/async.js:3111:7)
+    at /var/www/html/Tebse/tebse-nodeapi/controllers/order.js:3107:19
+    at handleCallback (/var/www/html/Tebse/tebse-nodeapi/node_modules/mongodb/lib/utils.js:96:12)
+    at /var/www/html/Tebse/tebse-nodeapi/node_modules/mongodb/lib/cursor.js:858:16
+    at handleCallback (/var/www/html/Tebse/tebse-nodeapi/node_modules/mongodb-core/lib/cursor.js:156:5)
+/var/www/html/Tebse/tebse-nodeapi/node_modules/mongodb/lib/utils.js:98
+    process.nextTick(function() { throw err; });
+                                  ^
+
+TypeError: Cannot read property 'userId' of null
+    at /var/www/html/Tebse/tebse-nodeapi/controllers/order.js:2818:37
+    at handleCallback (/var/www/html/Tebse/tebse-nodeapi/node_modules/mongodb/lib/utils.js:96:12)
+    at /var/www/html/Tebse/tebse-nodeapi/node_modules/mongodb/lib/collection.js:1392:5
+    at handleCallback (/var/www/html/Tebse/tebse-nodeapi/node_modules/mongodb/lib/utils.js:96:12)
+    at /var/www/html/Tebse/tebse-nodeapi/node_modules/mongodb/lib/cursor.js:676:5
+    at handleCallback (/var/www/html/Tebse/tebse-nodeapi/node_modules/mongodb-core/lib/cursor.js:156:5)
+    at setCursorNotified (/var/www/html/Tebse/tebse-nodeapi/node_modules/mongodb-core/lib/cursor.js:506:3)
+    at /var/www/html/Tebse/tebse-nodeapi/node_modules/mongodb-core/lib/cursor.js:579:16
+    at Object.queryCallback [as cb] (/var/www/html/Tebse/tebse-nodeapi/node_modules/mongodb-core/lib/cursor.js:238:5)
+    at /var/www/html/Tebse/tebse-nodeapi/node_modules/mongodb-core/lib/connection/pool.js:446:18

@@ -1,0 +1,1043 @@
+nohup: ignoring input
+Connected correctly to server mongodb
+Connection established mysql
+new order
+[ { _id: 57d253fea915f67f7c4973f5,
+    orderseqId: 'T00001155',
+    userId: '57c3d1bf8c302d4f3afe57e0',
+    order_datetime: '2016-09-09 11:47:12',
+    due_datetime: '2016-09-09 11:47:12',
+    orderType: 1,
+    address1: '',
+    address2: '',
+    total_amount: 8.8,
+    Devices: { DeviceType: 2 },
+    status: 1 } ]
+hai1
+new order
+[ { _id: 57d253fea915f67f7c4973f5,
+    orderseqId: 'T00001155',
+    userId: '57c3d1bf8c302d4f3afe57e0',
+    order_datetime: '2016-09-09 11:47:12',
+    due_datetime: '2016-09-09 11:47:12',
+    orderType: 1,
+    address1: '',
+    address2: '',
+    total_amount: 8.8,
+    Devices: { DeviceType: 2 },
+    status: 1 } ]
+hai1
+[ { _id: 57d17aee3f28a5474f921e96,
+    orderseqId: 'T00001146',
+    userId: '57cd74cbc801910902b4d400',
+    order_datetime: '2016-09-08 20:21:23',
+    due_datetime: '2016-09-08 20:21:23',
+    orderType: 1,
+    address1: '',
+    address2: '',
+    total_amount: -34,
+    Devices: { DeviceType: 1 },
+    status: 4 } ]
+hai1
+new order
+[ { _id: 57d253fea915f67f7c4973f5,
+    orderseqId: 'T00001155',
+    userId: '57c3d1bf8c302d4f3afe57e0',
+    order_datetime: '2016-09-09 11:47:12',
+    due_datetime: '2016-09-09 11:47:12',
+    orderType: 1,
+    address1: '',
+    address2: '',
+    total_amount: 8.8,
+    Devices: { DeviceType: 2 },
+    status: 1 } ]
+hai1
+new order
+[ { _id: 57d253fea915f67f7c4973f5,
+    orderseqId: 'T00001155',
+    userId: '57c3d1bf8c302d4f3afe57e0',
+    order_datetime: '2016-09-09 11:47:12',
+    due_datetime: '2016-09-09 11:47:12',
+    orderType: 1,
+    address1: '',
+    address2: '',
+    total_amount: 8.8,
+    Devices: { DeviceType: 2 },
+    status: 1 } ]
+hai1
+[ RowDataPacket {
+    City_Id: 15,
+    Country_Id: 8,
+    City_Name: 'Riyadh',
+    Currency: 'SAR',
+    countrycode: 966 } ]
+[ RowDataPacket {
+    City_Id: 15,
+    Country_Id: 8,
+    City_Name: 'Riyadh',
+    Currency: 'SAR',
+    countrycode: 966 } ]
+new order
+[ { _id: 57d253fea915f67f7c4973f5,
+    orderseqId: 'T00001155',
+    userId: '57c3d1bf8c302d4f3afe57e0',
+    order_datetime: '2016-09-09 11:47:12',
+    due_datetime: '2016-09-09 11:47:12',
+    orderType: 1,
+    address1: '',
+    address2: '',
+    total_amount: 8.8,
+    Devices: { DeviceType: 2 },
+    status: 1 } ]
+hai1
+new order
+[ { _id: 57d253fea915f67f7c4973f5,
+    orderseqId: 'T00001155',
+    userId: '57c3d1bf8c302d4f3afe57e0',
+    order_datetime: '2016-09-09 11:47:12',
+    due_datetime: '2016-09-09 11:47:12',
+    orderType: 1,
+    address1: '',
+    address2: '',
+    total_amount: 8.8,
+    Devices: { DeviceType: 2 },
+    status: 1 } ]
+hai1
+[ RowDataPacket {
+    City_Id: 15,
+    Country_Id: 8,
+    City_Name: 'Riyadh',
+    Currency: 'SAR',
+    countrycode: 966 } ]
+new order
+[ { _id: 57d253fea915f67f7c4973f5,
+    orderseqId: 'T00001155',
+    userId: '57c3d1bf8c302d4f3afe57e0',
+    order_datetime: '2016-09-09 11:47:12',
+    due_datetime: '2016-09-09 11:47:12',
+    orderType: 1,
+    address1: '',
+    address2: '',
+    total_amount: 8.8,
+    Devices: { DeviceType: 2 },
+    status: 1 } ]
+hai1
+[ RowDataPacket {
+    City_Id: 17,
+    Country_Id: 7,
+    City_Name: 'PUNE',
+    Currency: 'INR',
+    countrycode: 91 } ]
+new order
+[ { _id: 57d39f0d3d5116632181068d,
+    orderseqId: 'T00001162',
+    userId: '57d39dfa3d5116632181068c',
+    order_datetime: '2016-09-10 11:20:04',
+    due_datetime: '2016-09-10 11:20:04',
+    orderType: 1,
+    address1: '',
+    address2: '',
+    total_amount: 68.25,
+    Devices: { DeviceType: 2 },
+    status: 1 } ]
+hai1
+[ { _id: 57d39f0d3d5116632181068d,
+    orderseqId: 'T00001162',
+    userId: '57d39dfa3d5116632181068c',
+    order_datetime: '2016-09-10 11:20:04',
+    due_datetime: '2016-09-10 11:20:04',
+    orderType: 1,
+    address1: '',
+    address2: '',
+    Location: { Longitude: NaN, Latitude: NaN },
+    paymentType: 2,
+    menu: [ [Object] ],
+    subtotal_amount: 65,
+    tax_amount: '',
+    tip_amount: 3.25,
+    total_amount: 68.25,
+    servicecharge: '',
+    Devices: 
+     { DeviceType: 2,
+       Os: '6.0.1',
+       DeviceId: '352136064011782',
+       DeviceToken: 'MOB30Y',
+       AppVersion: null },
+    status: 2,
+    statusLog: [ [Object] ],
+    driversLog: [],
+    eventLog: [ [Object], [Object] ] } ]
+[ { _id: 57d39f0d3d5116632181068d,
+    orderseqId: 'T00001162',
+    userId: '57d39dfa3d5116632181068c',
+    order_datetime: '2016-09-10 11:20:04',
+    due_datetime: '2016-09-10 11:20:04',
+    orderType: 1,
+    address1: '',
+    address2: '',
+    total_amount: 68.25,
+    Devices: { DeviceType: 2 },
+    status: 4 } ]
+hai1
+new order
+[]
+hai1
+[]
+[]
+[]
+new order
+[]
+hai1
+new order
+[ { _id: 57d3b2bd5b2a486f287b2eee,
+    orderseqId: 'T00001163',
+    userId: '57d39dfa3d5116632181068c',
+    order_datetime: '2016-09-10 12:44:03',
+    due_datetime: '2016-09-10 12:44:03',
+    orderType: 1,
+    address1: '',
+    address2: '',
+    total_amount: 136.5,
+    Devices: { DeviceType: 2 },
+    status: 1 } ]
+hai1
+new order
+[]
+hai1
+[ { _id: 57d3b2bd5b2a486f287b2eee,
+    orderseqId: 'T00001163',
+    userId: '57d39dfa3d5116632181068c',
+    order_datetime: '2016-09-10 12:44:03',
+    due_datetime: '2016-09-10 12:44:03',
+    orderType: 1,
+    address1: '',
+    address2: '',
+    Location: { Longitude: NaN, Latitude: NaN },
+    paymentType: 2,
+    menu: [ [Object] ],
+    subtotal_amount: 130,
+    tax_amount: '',
+    tip_amount: 6.5,
+    total_amount: 136.5,
+    servicecharge: '',
+    Devices: 
+     { DeviceType: 2,
+       Os: '6.0.1',
+       DeviceId: '352136064011782',
+       DeviceToken: 'MOB30Y',
+       AppVersion: null },
+    status: 2,
+    statusLog: [ [Object], [Object], [Object], [Object] ],
+    driversLog: [],
+    eventLog: [ [Object], [Object], [Object], [Object], [Object] ] } ]
+[ { _id: 57d3b2bd5b2a486f287b2eee,
+    orderseqId: 'T00001163',
+    userId: '57d39dfa3d5116632181068c',
+    order_datetime: '2016-09-10 12:44:03',
+    due_datetime: '2016-09-10 12:44:03',
+    orderType: 1,
+    address1: '',
+    address2: '',
+    Location: { Longitude: NaN, Latitude: NaN },
+    paymentType: 2,
+    menu: [ [Object] ],
+    subtotal_amount: 130,
+    tax_amount: '',
+    tip_amount: 6.5,
+    total_amount: 136.5,
+    servicecharge: '',
+    Devices: 
+     { DeviceType: 2,
+       Os: '6.0.1',
+       DeviceId: '352136064011782',
+       DeviceToken: 'MOB30Y',
+       AppVersion: null },
+    status: 2,
+    statusLog: [ [Object], [Object], [Object], [Object] ],
+    driversLog: [],
+    eventLog: [ [Object], [Object], [Object], [Object], [Object] ] } ]
+new order
+[]
+hai1
+[ { _id: 57d3b2bd5b2a486f287b2eee,
+    orderseqId: 'T00001163',
+    userId: '57d39dfa3d5116632181068c',
+    order_datetime: '2016-09-10 12:44:03',
+    due_datetime: '2016-09-10 12:44:03',
+    orderType: 1,
+    address1: '',
+    address2: '',
+    total_amount: 136.5,
+    Devices: { DeviceType: 2 },
+    status: 4 },
+  { _id: 57d39f0d3d5116632181068d,
+    orderseqId: 'T00001162',
+    userId: '57d39dfa3d5116632181068c',
+    order_datetime: '2016-09-10 11:20:04',
+    due_datetime: '2016-09-10 11:20:04',
+    orderType: 1,
+    address1: '',
+    address2: '',
+    total_amount: 68.25,
+    Devices: { DeviceType: 2 },
+    status: 4 } ]
+hai1
+new order
+[ { _id: 57d253fea915f67f7c4973f5,
+    orderseqId: 'T00001155',
+    userId: '57c3d1bf8c302d4f3afe57e0',
+    order_datetime: '2016-09-09 11:47:12',
+    due_datetime: '2016-09-09 11:47:12',
+    orderType: 1,
+    address1: '',
+    address2: '',
+    total_amount: 8.8,
+    Devices: { DeviceType: 2 },
+    status: 1 } ]
+hai1
+new order
+[ { _id: 57d253fea915f67f7c4973f5,
+    orderseqId: 'T00001155',
+    userId: '57c3d1bf8c302d4f3afe57e0',
+    order_datetime: '2016-09-09 11:47:12',
+    due_datetime: '2016-09-09 11:47:12',
+    orderType: 1,
+    address1: '',
+    address2: '',
+    total_amount: 8.8,
+    Devices: { DeviceType: 2 },
+    status: 1 } ]
+hai1
+new order
+[ { _id: 57d253fea915f67f7c4973f5,
+    orderseqId: 'T00001155',
+    userId: '57c3d1bf8c302d4f3afe57e0',
+    order_datetime: '2016-09-09 11:47:12',
+    due_datetime: '2016-09-09 11:47:12',
+    orderType: 1,
+    address1: '',
+    address2: '',
+    total_amount: 8.8,
+    Devices: { DeviceType: 2 },
+    status: 1 } ]
+hai1
+new order
+[ { _id: 57d253fea915f67f7c4973f5,
+    orderseqId: 'T00001155',
+    userId: '57c3d1bf8c302d4f3afe57e0',
+    order_datetime: '2016-09-09 11:47:12',
+    due_datetime: '2016-09-09 11:47:12',
+    orderType: 1,
+    address1: '',
+    address2: '',
+    total_amount: 8.8,
+    Devices: { DeviceType: 2 },
+    status: 1 } ]
+hai1
+new order
+[ { _id: 57d253fea915f67f7c4973f5,
+    orderseqId: 'T00001155',
+    userId: '57c3d1bf8c302d4f3afe57e0',
+    order_datetime: '2016-09-09 11:47:12',
+    due_datetime: '2016-09-09 11:47:12',
+    orderType: 1,
+    address1: '',
+    address2: '',
+    total_amount: 8.8,
+    Devices: { DeviceType: 2 },
+    status: 1 } ]
+hai1
+new order
+[ { _id: 57d253fea915f67f7c4973f5,
+    orderseqId: 'T00001155',
+    userId: '57c3d1bf8c302d4f3afe57e0',
+    order_datetime: '2016-09-09 11:47:12',
+    due_datetime: '2016-09-09 11:47:12',
+    orderType: 1,
+    address1: '',
+    address2: '',
+    total_amount: 8.8,
+    Devices: { DeviceType: 2 },
+    status: 1 } ]
+hai1
+[]
+[ { _id: 57d17aee3f28a5474f921e96,
+    orderseqId: 'T00001146',
+    userId: '57cd74cbc801910902b4d400',
+    order_datetime: '2016-09-08 20:21:23',
+    due_datetime: '2016-09-08 20:21:23',
+    orderType: 1,
+    address1: '',
+    address2: '',
+    total_amount: -34,
+    Devices: { DeviceType: 1 },
+    status: 4 } ]
+hai1
+new order
+[ { _id: 57d253fea915f67f7c4973f5,
+    orderseqId: 'T00001155',
+    userId: '57c3d1bf8c302d4f3afe57e0',
+    order_datetime: '2016-09-09 11:47:12',
+    due_datetime: '2016-09-09 11:47:12',
+    orderType: 1,
+    address1: '',
+    address2: '',
+    total_amount: 8.8,
+    Devices: { DeviceType: 2 },
+    status: 1 } ]
+hai1
+new order
+[ { _id: 57d253fea915f67f7c4973f5,
+    orderseqId: 'T00001155',
+    userId: '57c3d1bf8c302d4f3afe57e0',
+    order_datetime: '2016-09-09 11:47:12',
+    due_datetime: '2016-09-09 11:47:12',
+    orderType: 1,
+    address1: '',
+    address2: '',
+    total_amount: 8.8,
+    Devices: { DeviceType: 2 },
+    status: 1 } ]
+hai1
+new order
+[ { _id: 57d253fea915f67f7c4973f5,
+    orderseqId: 'T00001155',
+    userId: '57c3d1bf8c302d4f3afe57e0',
+    order_datetime: '2016-09-09 11:47:12',
+    due_datetime: '2016-09-09 11:47:12',
+    orderType: 1,
+    address1: '',
+    address2: '',
+    total_amount: 8.8,
+    Devices: { DeviceType: 2 },
+    status: 1 } ]
+hai1
+new order
+[ { _id: 57d253fea915f67f7c4973f5,
+    orderseqId: 'T00001155',
+    userId: '57c3d1bf8c302d4f3afe57e0',
+    order_datetime: '2016-09-09 11:47:12',
+    due_datetime: '2016-09-09 11:47:12',
+    orderType: 1,
+    address1: '',
+    address2: '',
+    total_amount: 8.8,
+    Devices: { DeviceType: 2 },
+    status: 1 } ]
+hai1
+new order
+[ { _id: 57d253fea915f67f7c4973f5,
+    orderseqId: 'T00001155',
+    userId: '57c3d1bf8c302d4f3afe57e0',
+    order_datetime: '2016-09-09 11:47:12',
+    due_datetime: '2016-09-09 11:47:12',
+    orderType: 1,
+    address1: '',
+    address2: '',
+    total_amount: 8.8,
+    Devices: { DeviceType: 2 },
+    status: 1 } ]
+hai1
+new order
+[ { _id: 57d253fea915f67f7c4973f5,
+    orderseqId: 'T00001155',
+    userId: '57c3d1bf8c302d4f3afe57e0',
+    order_datetime: '2016-09-09 11:47:12',
+    due_datetime: '2016-09-09 11:47:12',
+    orderType: 1,
+    address1: '',
+    address2: '',
+    total_amount: 8.8,
+    Devices: { DeviceType: 2 },
+    status: 1 } ]
+hai1
+new order
+[ { _id: 57d253fea915f67f7c4973f5,
+    orderseqId: 'T00001155',
+    userId: '57c3d1bf8c302d4f3afe57e0',
+    order_datetime: '2016-09-09 11:47:12',
+    due_datetime: '2016-09-09 11:47:12',
+    orderType: 1,
+    address1: '',
+    address2: '',
+    total_amount: 8.8,
+    Devices: { DeviceType: 2 },
+    status: 1 } ]
+hai1
+new order
+[ { _id: 57d253fea915f67f7c4973f5,
+    orderseqId: 'T00001155',
+    userId: '57c3d1bf8c302d4f3afe57e0',
+    order_datetime: '2016-09-09 11:47:12',
+    due_datetime: '2016-09-09 11:47:12',
+    orderType: 1,
+    address1: '',
+    address2: '',
+    total_amount: 8.8,
+    Devices: { DeviceType: 2 },
+    status: 1 } ]
+hai1
+new order
+[ { _id: 57d253fea915f67f7c4973f5,
+    orderseqId: 'T00001155',
+    userId: '57c3d1bf8c302d4f3afe57e0',
+    order_datetime: '2016-09-09 11:47:12',
+    due_datetime: '2016-09-09 11:47:12',
+    orderType: 1,
+    address1: '',
+    address2: '',
+    total_amount: 8.8,
+    Devices: { DeviceType: 2 },
+    status: 1 } ]
+hai1
+new order
+[ { _id: 57d253fea915f67f7c4973f5,
+    orderseqId: 'T00001155',
+    userId: '57c3d1bf8c302d4f3afe57e0',
+    order_datetime: '2016-09-09 11:47:12',
+    due_datetime: '2016-09-09 11:47:12',
+    orderType: 1,
+    address1: '',
+    address2: '',
+    total_amount: 8.8,
+    Devices: { DeviceType: 2 },
+    status: 1 } ]
+hai1
+new order
+[ { _id: 57d253fea915f67f7c4973f5,
+    orderseqId: 'T00001155',
+    userId: '57c3d1bf8c302d4f3afe57e0',
+    order_datetime: '2016-09-09 11:47:12',
+    due_datetime: '2016-09-09 11:47:12',
+    orderType: 1,
+    address1: '',
+    address2: '',
+    total_amount: 8.8,
+    Devices: { DeviceType: 2 },
+    status: 1 } ]
+hai1
+new order
+[ { _id: 57d253fea915f67f7c4973f5,
+    orderseqId: 'T00001155',
+    userId: '57c3d1bf8c302d4f3afe57e0',
+    order_datetime: '2016-09-09 11:47:12',
+    due_datetime: '2016-09-09 11:47:12',
+    orderType: 1,
+    address1: '',
+    address2: '',
+    total_amount: 8.8,
+    Devices: { DeviceType: 2 },
+    status: 1 } ]
+hai1
+new order
+[ { _id: 57d253fea915f67f7c4973f5,
+    orderseqId: 'T00001155',
+    userId: '57c3d1bf8c302d4f3afe57e0',
+    order_datetime: '2016-09-09 11:47:12',
+    due_datetime: '2016-09-09 11:47:12',
+    orderType: 1,
+    address1: '',
+    address2: '',
+    total_amount: 8.8,
+    Devices: { DeviceType: 2 },
+    status: 1 } ]
+hai1
+[]
+new order
+[ { _id: 57d253fea915f67f7c4973f5,
+    orderseqId: 'T00001155',
+    userId: '57c3d1bf8c302d4f3afe57e0',
+    order_datetime: '2016-09-09 11:47:12',
+    due_datetime: '2016-09-09 11:47:12',
+    orderType: 1,
+    address1: '',
+    address2: '',
+    total_amount: 8.8,
+    Devices: { DeviceType: 2 },
+    status: 1 } ]
+hai1
+new order
+[ { _id: 57d253fea915f67f7c4973f5,
+    orderseqId: 'T00001155',
+    userId: '57c3d1bf8c302d4f3afe57e0',
+    order_datetime: '2016-09-09 11:47:12',
+    due_datetime: '2016-09-09 11:47:12',
+    orderType: 1,
+    address1: '',
+    address2: '',
+    total_amount: 8.8,
+    Devices: { DeviceType: 2 },
+    status: 1 } ]
+hai1
+[]
+new order
+[ { _id: 57d253fea915f67f7c4973f5,
+    orderseqId: 'T00001155',
+    userId: '57c3d1bf8c302d4f3afe57e0',
+    order_datetime: '2016-09-09 11:47:12',
+    due_datetime: '2016-09-09 11:47:12',
+    orderType: 1,
+    address1: '',
+    address2: '',
+    total_amount: 8.8,
+    Devices: { DeviceType: 2 },
+    status: 1 } ]
+hai1
+new order
+[ { _id: 57d253fea915f67f7c4973f5,
+    orderseqId: 'T00001155',
+    userId: '57c3d1bf8c302d4f3afe57e0',
+    order_datetime: '2016-09-09 11:47:12',
+    due_datetime: '2016-09-09 11:47:12',
+    orderType: 1,
+    address1: '',
+    address2: '',
+    total_amount: 8.8,
+    Devices: { DeviceType: 2 },
+    status: 1 } ]
+hai1
+[]
+new order
+[ { _id: 57d253fea915f67f7c4973f5,
+    orderseqId: 'T00001155',
+    userId: '57c3d1bf8c302d4f3afe57e0',
+    order_datetime: '2016-09-09 11:47:12',
+    due_datetime: '2016-09-09 11:47:12',
+    orderType: 1,
+    address1: '',
+    address2: '',
+    total_amount: 8.8,
+    Devices: { DeviceType: 2 },
+    status: 1 } ]
+hai1
+[]
+new order
+[ { _id: 57d253fea915f67f7c4973f5,
+    orderseqId: 'T00001155',
+    userId: '57c3d1bf8c302d4f3afe57e0',
+    order_datetime: '2016-09-09 11:47:12',
+    due_datetime: '2016-09-09 11:47:12',
+    orderType: 1,
+    address1: '',
+    address2: '',
+    total_amount: 8.8,
+    Devices: { DeviceType: 2 },
+    status: 1 } ]
+hai1
+[]
+[ { _id: 57d17aee3f28a5474f921e96,
+    orderseqId: 'T00001146',
+    userId: '57cd74cbc801910902b4d400',
+    order_datetime: '2016-09-08 20:21:23',
+    due_datetime: '2016-09-08 20:21:23',
+    orderType: 1,
+    address1: '',
+    address2: '',
+    total_amount: -34,
+    Devices: { DeviceType: 1 },
+    status: 4 } ]
+hai1
+new order
+[ { _id: 57d253fea915f67f7c4973f5,
+    orderseqId: 'T00001155',
+    userId: '57c3d1bf8c302d4f3afe57e0',
+    order_datetime: '2016-09-09 11:47:12',
+    due_datetime: '2016-09-09 11:47:12',
+    orderType: 1,
+    address1: '',
+    address2: '',
+    total_amount: 8.8,
+    Devices: { DeviceType: 2 },
+    status: 1 } ]
+hai1
+new order
+[ { _id: 57d253fea915f67f7c4973f5,
+    orderseqId: 'T00001155',
+    userId: '57c3d1bf8c302d4f3afe57e0',
+    order_datetime: '2016-09-09 11:47:12',
+    due_datetime: '2016-09-09 11:47:12',
+    orderType: 1,
+    address1: '',
+    address2: '',
+    total_amount: 8.8,
+    Devices: { DeviceType: 2 },
+    status: 1 } ]
+hai1
+[]
+new order
+[ { _id: 57d253fea915f67f7c4973f5,
+    orderseqId: 'T00001155',
+    userId: '57c3d1bf8c302d4f3afe57e0',
+    order_datetime: '2016-09-09 11:47:12',
+    due_datetime: '2016-09-09 11:47:12',
+    orderType: 1,
+    address1: '',
+    address2: '',
+    total_amount: 8.8,
+    Devices: { DeviceType: 2 },
+    status: 1 } ]
+hai1
+[]
+[ { _id: 57d17aee3f28a5474f921e96,
+    orderseqId: 'T00001146',
+    userId: '57cd74cbc801910902b4d400',
+    order_datetime: '2016-09-08 20:21:23',
+    due_datetime: '2016-09-08 20:21:23',
+    orderType: 1,
+    address1: '',
+    address2: '',
+    total_amount: -34,
+    Devices: { DeviceType: 1 },
+    status: 4 } ]
+hai1
+new order
+[ { _id: 57d253fea915f67f7c4973f5,
+    orderseqId: 'T00001155',
+    userId: '57c3d1bf8c302d4f3afe57e0',
+    order_datetime: '2016-09-09 11:47:12',
+    due_datetime: '2016-09-09 11:47:12',
+    orderType: 1,
+    address1: '',
+    address2: '',
+    total_amount: 8.8,
+    Devices: { DeviceType: 2 },
+    status: 1 } ]
+hai1
+new order
+[ { _id: 57d253fea915f67f7c4973f5,
+    orderseqId: 'T00001155',
+    userId: '57c3d1bf8c302d4f3afe57e0',
+    order_datetime: '2016-09-09 11:47:12',
+    due_datetime: '2016-09-09 11:47:12',
+    orderType: 1,
+    address1: '',
+    address2: '',
+    total_amount: 8.8,
+    Devices: { DeviceType: 2 },
+    status: 1 } ]
+hai1
+[]
+[ { _id: 57d17aee3f28a5474f921e96,
+    orderseqId: 'T00001146',
+    userId: '57cd74cbc801910902b4d400',
+    order_datetime: '2016-09-08 20:21:23',
+    due_datetime: '2016-09-08 20:21:23',
+    orderType: 1,
+    address1: '',
+    address2: '',
+    total_amount: -34,
+    Devices: { DeviceType: 1 },
+    status: 4 } ]
+hai1
+new order
+[ { _id: 57d253fea915f67f7c4973f5,
+    orderseqId: 'T00001155',
+    userId: '57c3d1bf8c302d4f3afe57e0',
+    order_datetime: '2016-09-09 11:47:12',
+    due_datetime: '2016-09-09 11:47:12',
+    orderType: 1,
+    address1: '',
+    address2: '',
+    total_amount: 8.8,
+    Devices: { DeviceType: 2 },
+    status: 1 } ]
+hai1
+new order
+[ { _id: 57d253fea915f67f7c4973f5,
+    orderseqId: 'T00001155',
+    userId: '57c3d1bf8c302d4f3afe57e0',
+    order_datetime: '2016-09-09 11:47:12',
+    due_datetime: '2016-09-09 11:47:12',
+    orderType: 1,
+    address1: '',
+    address2: '',
+    total_amount: 8.8,
+    Devices: { DeviceType: 2 },
+    status: 1 } ]
+hai1
+new order
+[ { _id: 57d253fea915f67f7c4973f5,
+    orderseqId: 'T00001155',
+    userId: '57c3d1bf8c302d4f3afe57e0',
+    order_datetime: '2016-09-09 11:47:12',
+    due_datetime: '2016-09-09 11:47:12',
+    orderType: 1,
+    address1: '',
+    address2: '',
+    total_amount: 8.8,
+    Devices: { DeviceType: 2 },
+    status: 1 } ]
+hai1
+new order
+[ { _id: 57d253fea915f67f7c4973f5,
+    orderseqId: 'T00001155',
+    userId: '57c3d1bf8c302d4f3afe57e0',
+    order_datetime: '2016-09-09 11:47:12',
+    due_datetime: '2016-09-09 11:47:12',
+    orderType: 1,
+    address1: '',
+    address2: '',
+    total_amount: 8.8,
+    Devices: { DeviceType: 2 },
+    status: 1 } ]
+hai1
+new order
+[ { _id: 57d253fea915f67f7c4973f5,
+    orderseqId: 'T00001155',
+    userId: '57c3d1bf8c302d4f3afe57e0',
+    order_datetime: '2016-09-09 11:47:12',
+    due_datetime: '2016-09-09 11:47:12',
+    orderType: 1,
+    address1: '',
+    address2: '',
+    total_amount: 8.8,
+    Devices: { DeviceType: 2 },
+    status: 1 } ]
+hai1
+new order
+[ { _id: 57d253fea915f67f7c4973f5,
+    orderseqId: 'T00001155',
+    userId: '57c3d1bf8c302d4f3afe57e0',
+    order_datetime: '2016-09-09 11:47:12',
+    due_datetime: '2016-09-09 11:47:12',
+    orderType: 1,
+    address1: '',
+    address2: '',
+    total_amount: 8.8,
+    Devices: { DeviceType: 2 },
+    status: 1 } ]
+hai1
+new order
+[ { _id: 57d253fea915f67f7c4973f5,
+    orderseqId: 'T00001155',
+    userId: '57c3d1bf8c302d4f3afe57e0',
+    order_datetime: '2016-09-09 11:47:12',
+    due_datetime: '2016-09-09 11:47:12',
+    orderType: 1,
+    address1: '',
+    address2: '',
+    total_amount: 8.8,
+    Devices: { DeviceType: 2 },
+    status: 1 } ]
+hai1
+new order
+[ { _id: 57d253fea915f67f7c4973f5,
+    orderseqId: 'T00001155',
+    userId: '57c3d1bf8c302d4f3afe57e0',
+    order_datetime: '2016-09-09 11:47:12',
+    due_datetime: '2016-09-09 11:47:12',
+    orderType: 1,
+    address1: '',
+    address2: '',
+    total_amount: 8.8,
+    Devices: { DeviceType: 2 },
+    status: 1 } ]
+hai1
+new order
+[ { _id: 57d253fea915f67f7c4973f5,
+    orderseqId: 'T00001155',
+    userId: '57c3d1bf8c302d4f3afe57e0',
+    order_datetime: '2016-09-09 11:47:12',
+    due_datetime: '2016-09-09 11:47:12',
+    orderType: 1,
+    address1: '',
+    address2: '',
+    total_amount: 8.8,
+    Devices: { DeviceType: 2 },
+    status: 1 } ]
+hai1
+new order
+[ { _id: 57d253fea915f67f7c4973f5,
+    orderseqId: 'T00001155',
+    userId: '57c3d1bf8c302d4f3afe57e0',
+    order_datetime: '2016-09-09 11:47:12',
+    due_datetime: '2016-09-09 11:47:12',
+    orderType: 1,
+    address1: '',
+    address2: '',
+    total_amount: 8.8,
+    Devices: { DeviceType: 2 },
+    status: 1 } ]
+hai1
+new order
+[ { _id: 57d253fea915f67f7c4973f5,
+    orderseqId: 'T00001155',
+    userId: '57c3d1bf8c302d4f3afe57e0',
+    order_datetime: '2016-09-09 11:47:12',
+    due_datetime: '2016-09-09 11:47:12',
+    orderType: 1,
+    address1: '',
+    address2: '',
+    total_amount: 8.8,
+    Devices: { DeviceType: 2 },
+    status: 1 } ]
+hai1
+new order
+[ { _id: 57d253fea915f67f7c4973f5,
+    orderseqId: 'T00001155',
+    userId: '57c3d1bf8c302d4f3afe57e0',
+    order_datetime: '2016-09-09 11:47:12',
+    due_datetime: '2016-09-09 11:47:12',
+    orderType: 1,
+    address1: '',
+    address2: '',
+    total_amount: 8.8,
+    Devices: { DeviceType: 2 },
+    status: 1 } ]
+hai1
+new order
+[ { _id: 57d253fea915f67f7c4973f5,
+    orderseqId: 'T00001155',
+    userId: '57c3d1bf8c302d4f3afe57e0',
+    order_datetime: '2016-09-09 11:47:12',
+    due_datetime: '2016-09-09 11:47:12',
+    orderType: 1,
+    address1: '',
+    address2: '',
+    total_amount: 8.8,
+    Devices: { DeviceType: 2 },
+    status: 1 } ]
+hai1
+new order
+[ { _id: 57d253fea915f67f7c4973f5,
+    orderseqId: 'T00001155',
+    userId: '57c3d1bf8c302d4f3afe57e0',
+    order_datetime: '2016-09-09 11:47:12',
+    due_datetime: '2016-09-09 11:47:12',
+    orderType: 1,
+    address1: '',
+    address2: '',
+    total_amount: 8.8,
+    Devices: { DeviceType: 2 },
+    status: 1 } ]
+hai1
+new order
+[ { _id: 57d253fea915f67f7c4973f5,
+    orderseqId: 'T00001155',
+    userId: '57c3d1bf8c302d4f3afe57e0',
+    order_datetime: '2016-09-09 11:47:12',
+    due_datetime: '2016-09-09 11:47:12',
+    orderType: 1,
+    address1: '',
+    address2: '',
+    total_amount: 8.8,
+    Devices: { DeviceType: 2 },
+    status: 1 } ]
+hai1
+new order
+[ { _id: 57d253fea915f67f7c4973f5,
+    orderseqId: 'T00001155',
+    userId: '57c3d1bf8c302d4f3afe57e0',
+    order_datetime: '2016-09-09 11:47:12',
+    due_datetime: '2016-09-09 11:47:12',
+    orderType: 1,
+    address1: '',
+    address2: '',
+    total_amount: 8.8,
+    Devices: { DeviceType: 2 },
+    status: 1 } ]
+hai1
+new order
+[ { _id: 57d253fea915f67f7c4973f5,
+    orderseqId: 'T00001155',
+    userId: '57c3d1bf8c302d4f3afe57e0',
+    order_datetime: '2016-09-09 11:47:12',
+    due_datetime: '2016-09-09 11:47:12',
+    orderType: 1,
+    address1: '',
+    address2: '',
+    total_amount: 8.8,
+    Devices: { DeviceType: 2 },
+    status: 1 } ]
+hai1
+new order
+[ { _id: 57d253fea915f67f7c4973f5,
+    orderseqId: 'T00001155',
+    userId: '57c3d1bf8c302d4f3afe57e0',
+    order_datetime: '2016-09-09 11:47:12',
+    due_datetime: '2016-09-09 11:47:12',
+    orderType: 1,
+    address1: '',
+    address2: '',
+    total_amount: 8.8,
+    Devices: { DeviceType: 2 },
+    status: 1 } ]
+hai1
+new order
+[ { _id: 57d253fea915f67f7c4973f5,
+    orderseqId: 'T00001155',
+    userId: '57c3d1bf8c302d4f3afe57e0',
+    order_datetime: '2016-09-09 11:47:12',
+    due_datetime: '2016-09-09 11:47:12',
+    orderType: 1,
+    address1: '',
+    address2: '',
+    total_amount: 8.8,
+    Devices: { DeviceType: 2 },
+    status: 1 } ]
+hai1
+new order
+[ { _id: 57d253fea915f67f7c4973f5,
+    orderseqId: 'T00001155',
+    userId: '57c3d1bf8c302d4f3afe57e0',
+    order_datetime: '2016-09-09 11:47:12',
+    due_datetime: '2016-09-09 11:47:12',
+    orderType: 1,
+    address1: '',
+    address2: '',
+    total_amount: 8.8,
+    Devices: { DeviceType: 2 },
+    status: 1 } ]
+hai1
+new order
+[ { _id: 57d253fea915f67f7c4973f5,
+    orderseqId: 'T00001155',
+    userId: '57c3d1bf8c302d4f3afe57e0',
+    order_datetime: '2016-09-09 11:47:12',
+    due_datetime: '2016-09-09 11:47:12',
+    orderType: 1,
+    address1: '',
+    address2: '',
+    total_amount: 8.8,
+    Devices: { DeviceType: 2 },
+    status: 1 } ]
+hai1
+new order
+[ { _id: 57d253fea915f67f7c4973f5,
+    orderseqId: 'T00001155',
+    userId: '57c3d1bf8c302d4f3afe57e0',
+    order_datetime: '2016-09-09 11:47:12',
+    due_datetime: '2016-09-09 11:47:12',
+    orderType: 1,
+    address1: '',
+    address2: '',
+    total_amount: 8.8,
+    Devices: { DeviceType: 2 },
+    status: 1 } ]
+hai1
+new order
+[ { _id: 57d253fea915f67f7c4973f5,
+    orderseqId: 'T00001155',
+    userId: '57c3d1bf8c302d4f3afe57e0',
+    order_datetime: '2016-09-09 11:47:12',
+    due_datetime: '2016-09-09 11:47:12',
+    orderType: 1,
+    address1: '',
+    address2: '',
+    total_amount: 8.8,
+    Devices: { DeviceType: 2 },
+    status: 1 } ]
+hai1
+new order
+[ { _id: 57d253fea915f67f7c4973f5,
+    orderseqId: 'T00001155',
+    userId: '57c3d1bf8c302d4f3afe57e0',
+    order_datetime: '2016-09-09 11:47:12',
+    due_datetime: '2016-09-09 11:47:12',
+    orderType: 1,
+    address1: '',
+    address2: '',
+    total_amount: 8.8,
+    Devices: { DeviceType: 2 },
+    status: 1 } ]
+hai1

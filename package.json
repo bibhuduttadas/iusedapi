@@ -1,0 +1,25 @@
+{
+  "name": "3embed",
+  "version": "0.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "3embed",
+  "license": "ISC",
+  "dependencies": {
+    "async": "^2.0.0",
+    "body-parser": "~1.14.2",
+    "express": "^4.14.0",
+    "google-distance": "^1.0.1",
+    "google-distance-matrix": "0.0.3",
+    "mongodb": "~2.2.4",
+    "mysql": "^2.11.1",
+    "omrs-checkmobi": "^1.0.0",
+    "pubnub": "^4.0.4",
+    "randomstring": "^1.1.5",
+    "requests": "^0.3.0"
+  }
+}
