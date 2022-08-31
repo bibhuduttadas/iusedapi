@@ -51,9 +51,9 @@ exports.sellProduct = function (req, res) {
         }
 
     }
-    if (!req.body.Created_dt) {
-        missingfield.push("Created_dt");
-    }
+    // if (!req.body.Created_dt) {
+    //     missingfield.push("Created_dt");
+    // }
 
 
 
@@ -180,7 +180,7 @@ exports.sellProduct = function (req, res) {
                             "ImageLinks": req.body.ImageLinks,
                             "ExchangeOffer": req.body.ExchangeOffer,
                             'PostedBy': req.body.UserId,
-                            "PostedOn": req.body.Created_dt,
+                            "PostedOn": Date.now(),
                             "PostedOnGMT": GMTTime,
                             "location": result.location,
                             'PostedUserAddress': result.SmallAddress,
