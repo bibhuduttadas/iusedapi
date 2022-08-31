@@ -51,9 +51,9 @@ exports.sellProduct = function (req, res) {
         }
 
     }
-    // if (!req.body.Created_dt) {
-    //     missingfield.push("Created_dt");
-    // }
+    if (!req.body.Created_dt) {
+        missingfield.push("Created_dt");
+    }
 
 
 
@@ -180,7 +180,7 @@ exports.sellProduct = function (req, res) {
                             "ImageLinks": req.body.ImageLinks,
                             "ExchangeOffer": req.body.ExchangeOffer,
                             'PostedBy': req.body.UserId,
-                            "PostedOn": Date.now(),
+                            "PostedOn": req.body.Created_dt,
                             "PostedOnGMT": GMTTime,
                             "location": result.location,
                             'PostedUserAddress': result.SmallAddress,
@@ -192,14 +192,14 @@ exports.sellProduct = function (req, res) {
                             if (!err) {
                                 if (req.body.Type === '3') {
 //
-                                    res.status(200).json({
+                                    res.send({
                                         "errNum": ErrObj.success.num,
                                         "errMsg": 'We appreciate your generosity. Our team is currently reviewing the post and publish it very shortly. You will get the requests from the needy.',
                                         "errFlag": '0',
                                         "ProductId": newId
                                     });
                                 } else {
-                                    res.status(200).json({
+                                    res.send({
                                         "errNum": ErrObj.success.num,
                                         "errMsg": 'Thanks for posting the item. Our team is currently reviewing the post and publish it very shortly.',
                                         "errFlag": '0',
@@ -208,7 +208,7 @@ exports.sellProduct = function (req, res) {
                                 }
 
                             } else {
-                                res.status(500).json({
+                                res.send({
                                     "errNum": ErrObj.unexpected_error.num,
                                     "errMsg": ErrObj.unexpected_error.message,
                                     "errFlag": '1'
