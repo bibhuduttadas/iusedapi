@@ -3,6 +3,7 @@ var express = require('express'),
 var randomstring = require("randomstring");
 ObjectID = require('mongodb').ObjectID;
 var async = require('async');
+var requests = require('requests')
 const { Logout } = require('./customer');
 var ErrObj = {
     'unexpected_error': {num: '1003', message: "Unexpected Error"},
